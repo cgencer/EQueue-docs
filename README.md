@@ -1,5 +1,7 @@
 This is the documentation repo for my upcoming boardgame EQueue. 
 
+EQueue is a semi-abstract & semi-coop tactical puzzle with lots of player interaction.
+
 - **[Introduction / Thematic Objective](01-Introduction)**
 - **[Game Overview](02-Game-Overview)**
 - **[Special Actions](03-Special-Actions)**
