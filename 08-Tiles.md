@@ -1,8 +1,15 @@
 ## Emotion Tiles, a.ka Emotiles
 
-The emotiles are double-sided five-coloured tiles with stripes which are attached to the end of other players queues. They are gathered from the octagonal board, The Eight Earthly Concerns. The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). Although specific colours have no importance within this game, [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of emotions:
+The emotiles are double-sided five-coloured tiles with stripes which are attached to the end of other players queues. They are gathered from the octagonal board, The Eight Earthly Concerns. 
+![[tile.jpeg]]
+The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). Although specific colours have no importance within this game, [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of emotions:
+![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
 
-These tiles have five stripes on each, every level of stripe from outside to the middle (either of the left- or right-side) represents the level of the risen emotion; seed, evolving and becoming. When tiles are attached one-by-one, consecutive placement by colours, builds an emotion. A dormant emotion gets nurtured with continuity and becomes into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the centeral third-level  *(becoming)*, forms a checkmark facing either left or right. Whilst on the first- and second-level it is possible to spend some awareness for observing *(dismantling from a pattern)* it. On the last level, on becoming, it is already risen and can't be undone. Placement of the emotiles should follow the continuity of colours and tiles with no continuity shouldn't be placed.
+
+ ![[IMG_3984.jpg]]
+The emotiles have five stripes on each, every level of stripe from outside to the middle (either of the left- or right-side) represents the level of the risen emotion; seed, evolving and becoming. 
+
+When tiles are attached one-by-one, consecutive placement by colours, builds an emotion. A dormant emotion gets nurtured with continuity and becomes into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the centeral third-level  *(becoming)*, forms a checkmark facing either left or right. Whilst on the first- and second-level it is possible to spend some awareness for observing *(dismantling from a pattern)* it. On the last level, on becoming, it is already risen and can't be undone. Placement of the emotiles should follow the continuity of colours and tiles with no continuity shouldn't be placed.
 
 #### Picking and using an emotile:
 - 1. the axis should match with the event-card to be played.

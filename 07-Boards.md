@@ -2,8 +2,10 @@
 
 *usage of disc-markers, acquiring and replacing emotiles, removing disc-markers*
 
-The octagonal main board is built of eight sector tiles divided trough four axes of opposite themes, *The Eight Earthly Concerns*. Each sector has three levels with blank spaces for emotiles, connected with marker-spaces trough a network. When acquiring emotiles, a player has to leave a disc-marker of his colour on the next available space of that axis. 
+![[wheel.JPG]]
 
+The octagonal main board is built of eight sector tiles divided trough four axes of opposite themes, *The Eight Earthly Concerns*. Each sector has three levels with blank spaces for emotiles, connected with marker-spaces trough a network. When acquiring emotiles, a player has to leave a disc-marker of his colour on the next available space of that axis. 
+![[markers.JPG]]
 These rules apply to the usage of markers and acquiring emotiles:
 - Each level has a maximum capacity for markers; 4 for the first (inner), 2 for the second and 1 for the last (outer) circle and these can not be exceeded anyhow.
 - When an event-card is played, we got accustomed to the matched *concern* axis, increasing our tendency towards it. Because of this, we remove a disc from the shoshin-track to put onto empty marker-spaces.
