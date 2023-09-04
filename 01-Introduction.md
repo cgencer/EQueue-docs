@@ -1,14 +1,12 @@
-Emotions are a way to connect and experience the reality we live in. 
+Emotions are a way to connect and experience the reality we live in. We feel, we build relationship trough these emotions, we decide and take action and as a result of these, we feel again. Trough emotions we're socially connected and intertwined with all sentient beings. 
 
-Trough emotions we're socially connected and intertwined with all sentient beings. As much as experiencing them is important, so is becoming aware of them helps us to navigate within this realm to achieve a peaceful and harmonious life.
+Causality tells us that everything has a reason, a source to exist. A tree springs from a seed, a waterfall requires a river of water, living beings have their parents as their source. Actions and emotions both have motivations -underlying strategies of our ego- as their source and vice versa . Our ego normalises these and serves us only bite-size portions. As much as experiencing the emotions is an important factor so is becoming aware of them, observing their connections and the underlying motivations the basics to understand, build compassion and live a harmonious life.
 
-Social sciences help us understand emotions, their causes, effects and results by analysing and classifying them. Buddhism also has a deep insight about their nature, how they become and evolve.
+Social sciences help us understand emotions, their causes, effects and results by analysing and classifying them. Buddhism has a deep insight of our mind and its inner working collected from deep observations, how they become and evolve, how they lead us. Daoism has some methods which can help us handling them in a peaceful way.
 
-> [!Todo:] 
-> A person becomes out-of-balance when he leans towards one or the other: focused only on thoughts or emotions, as both diverse the mind from the reality.
-> 
+Our mind understands through opposites and references. One side of an opposite always attract us more, we choose this over that. Under the hood our mind classifies everything as pleasant, neutral and  unpleasant. We always have a bias towards pleasing and prefer to leave neutral and unpleasant aside.
 
-If you observe a musician tuning the strings of his instrument, you'll see that the to loose or tense adjustment of the strings results with bad sounds. A better solution would be *The middle path* where only the required amount of tension is applied. **This method could show us learn about their nature and not trying to control, force or ignore them.** 
+In its very core, buddhism shows us how to practice The Middle Path: if you observe a musician tuning the strings of his instrument, you'll see that the to loose or tense adjustment of the strings results with bad sounds. A better solution would be *The Middle Path* where only the required amount of tension / relaxing is applied. Same can be applied to our inner motivations for balancing life. Only use the necessary amount of them, nor less and not more.
 
 When practicing sports or music, repetitive practice trains our muscles to respond 
-Repeating emotional sequences become our *patterns*, sometimes even directing our behaviours because repetitive responses lead to having lesser awareness of the situation. Applying mindfulness trough observation brings understanding and dissolving patterns of emotions. This brings us closer to the mindful state within Zen 'Beginners Mind (*Shoshin*). The joy of shoshin and the freedom of being free of patterns can lead us to a harmonious life being in sync with the reality.
+Repeating emotional sequences become our *patterns*, sometimes even directing our behaviours because repetitive responses lead to having lesser awareness of the situation. Applying mindfulness trough observation brings understanding and dissolving patterns of emotions. This brings us closer to the mindful state within Zen 'Beginners Mind (*Shoshin*). Shoshin removes preconceptions and biases from our mind. The curiosity and joy of shoshin, the practice of the middle way and resolving our patterns can lead us to a harmonious life.
