@@ -9,19 +9,29 @@ The goal of the game is to raise our mindfulness by:
 - dismantle our patterns, which shadow our shoshin-state.
 ## The Objective
 
-The game is played over three rounds. A round continues until all players pass. The game is finished after three rounds. The goal of each player is to nurture mindfulness, be aware of their emotional atmosphere, watch out and dissolve patterns and balance their tendency-axes while navigating through various events within life. While doing this, they will try to convert their coloured crystals into colourless (unattached) ones. At the end of the game, the player with the most colorless crystals wins.
+The game is played over three rounds. A round continues until all players pass. The game is finished after three rounds. The goal of each player is to nurture mindfulness, be aware of their emotional atmosphere, watch out and dissolve patterns and balance their tendency-axes while navigating through various events within life. While doing this, they will try to convert their coloured crystals into blank ones. At the end of the game, the player with the most blank crystals wins.
 ## A Typical Turn:
 
 The gameplay is focused on the circular board and all players queue's.
-- Players pick emotion tiles fitting to one of the queue's through matching the tiles' connected axes with one of their event cards axis subject,
-- Pays the cost of the event-card with awareness-crystals of their colour.
-- Attach the received tile to the matching *queue*s of the other players.
+- Players pick emotion tiles matching the tiles' axes with one of their event cards' axis by these rules:
+	- a) The tile has to have a connection (shown with the lines of the grid) to the axis of a card in hand. 
+	- b) The player should have a matching card with the connected axis.
+	- c) The connection also has to be free of the players disc-markers.
+	- d) (If the tile is to be played directly) the tile has to match a queue.
+	- e) The shoshin-track of the player still has remaining disc-markers to take from.
+	- f) If either the visible- or its back-side do not match a queue, the tile and the event-card -without using its effects- is discarded, its location still to be marked with a disc.
+	- g) The player should have enough crystals to activate the card.
+	- h) Order of card activation and tile placement don't matter.
+- Pay the cost of the event-card with awareness-crystals of their colour.
+- Attach the gathered tile to the *queue*s of another player by matching at least one colour stripe.
 - Carry out the results of the played card, action and / or crystals. 
 ## End of Round
 
-The current round finishes when all players can't play furthermore because their crystals are not enough / finished. Players not having enough crystals to continue the round, pass. The players still having crystals may continue. When all players pass, the round finishes. To prepare for the next round:
+The current round finishes when all players can't play furthermore because their crystals are not enough / finished. Players having enough crystals **may** continue playing their turns. They may also pass the round while having enough crystals to spend these on the next round **after** at least one player passes. When all players pass, the round finishes. 
 
-- Empty emotile spaces on the sectors will be filled up
-- All played cards within the last round are discarded
-- Players draw a next set of 6 cards
-- Discard one of the persona cards, while keeping the pattern they brought in
+## Preparation for Upcoming Round:
+
+- Empty spaces on the sectors will be filled up with emotiles,
+- All activated cards will be discarded,
+- Players draw a next set of 6 cards,
+- Players discard one of the persona cards, wile keeping its pattern tile.
