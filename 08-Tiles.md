@@ -7,12 +7,12 @@ The emotiles are double-sided five-coloured tiles with stripes which are attache
 
 The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). The specific emotions have no importance within this game. But [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of the emotions.
 ![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
-When tiles are attached one-by-one, consecutive placement by colours, builds an emotion. A dormant emotion gets nurtured with continuity and becomes into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the centeral third-level  *(becoming)*, forms a checkmark facing either left or right. 
+When tiles are attached one-by-one, consecutive placement of colours builds an emotion. A dormant emotion gets nurtured with continuity and becomes into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the centeral third-level  *(becoming)*, forms a checkmark facing either left or right. 
 
  ![[IMG_3984.jpg]]
 ***Fulfilled emotion:** The first emotile, the dormant colour of yellow *(seed)* moves into the second level *(evolving)* on the next tile and on the next emotile, it comes into existence *(becoming)*. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.*
 
-Whilst on the first- and second-level it is possible to spend some awareness for observing *(dismantling from a pattern)* it. On the last level, on becoming, it is already risen and can't be undone. Placement of the emotiles should follow the continuity of colours and tiles with no continuity shouldn't be placed.
+Whilst on the first- and second-level it is possible to spend some awareness for observing *(dismantling a pattern)* it. On the last level, on becoming, it is already risen and can't be undone. Placement of the emotiles should follow the continuity of colours and tiles with no continuity shouldn't be placed.
 
 #### Picking and using an emotile:
 - 1. the axis should match with the event-card to be played.
@@ -35,3 +35,5 @@ Every player can have one or more pattern-tiles, showing a sequence of emotions,
 > [!Todo: Pattern Advantages and their Cost] 
 
 > [!TODO: Unbuilding the Wheel]
+
+> [!TODO: Detaching Emotions]
