@@ -10,9 +10,9 @@ EQueue is a semi-abstract & semi-coop tactical puzzle with lots of player intera
 - **[Tutorial Game](06-Tutorial-Game)**
 - **[Boards](07-Boards)**
 - **[Tiles](08-Tiles)**
-- **[Emotile Placement Examples](09-Emotile-Placement-Examples)**
-- **[Cards](10-Cards)**
-- **[Players](11-Players-and-Personas.md)**
+- **[Emotile Placement Examples](09-Placement-Examples.md)**
+- **[Cards](11-Cards.md)**
+- **[Players](10-Players-and-Personas.md)**
 - **[End of Game / Scoring / Win Conditions](12-Endgame&Scoring&Win-Conditions)**
 - **[Appendix & FAQ](13-Appendix&FAQ)**
 - **[List of Components](14-List-of-Components)**

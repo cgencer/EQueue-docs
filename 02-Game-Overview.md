@@ -18,20 +18,20 @@ The gameplay is focused on the circular board and all players queue's.
 	- b) The player should have a matching card with the connected axis.
 	- c) The connection also has to be free of the players disc-markers.
 	- d) (If the tile is to be played directly) the tile has to match a queue.
-	- e) The shoshin-track of the player still has remaining disc-markers to take from.
-	- f) If either the visible- or its back-side do not match a queue, the tile and the event-card -without using its effects- is discarded, its location still to be marked with a disc.
-	- g) The player should have enough crystals to activate the card.
-	- h) Order of card activation and tile placement don't matter.
-- Pay the cost of the event-card with awareness-crystals of their colour.
-- Attach the gathered tile to the *queue*s of another player by matching at least one colour stripe.
+	- e) The shoshin-track of the player has remaining disc-markers to take from.
+	- f) If either the visible- or its back-side of the emotile do not match a queue, the tile and the event-card -without using its effects- is discarded, its location still to be marked with a disc.
+	- g) The player should have enough crystals (of his colour) to activate the card.
+	- h) Order of card activation and tile placement does not matter.
+- Pay the cost of the event-card with crystals of their colour.
+- Attach the gathered tile to the *queue* of another player, matching at least one colour stripe.
 - Carry out the results of the played card, action and / or crystals. 
 ## End of Round
 
-The current round finishes when all players can't play furthermore because their crystals are not enough / finished. Players having enough crystals **may** continue playing their turns. They may also pass the round while having enough crystals to spend these on the next round **after** at least one player passes. When all players pass, the round finishes. 
-
+The current round finishes when all players can't play anymore because their crystals are not enough / finished. Players having enough crystals **may** continue to play their turns. They **may** also pass the round while having enough crystals (to spend these on the next round) **after** at least one player passes. When all players pass, the round finishes. 
 ## Preparation for Upcoming Round:
 
 - Empty spaces on the sectors will be filled up with emotiles,
 - All activated cards will be discarded,
+- Reserved and not used emotile & event-cards will be discarded without the benefits.
 - Players draw a next set of 6 cards,
 - Players discard one of the persona cards, wile keeping its pattern tile.

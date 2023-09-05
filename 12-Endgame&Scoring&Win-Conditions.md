@@ -1,9 +1,8 @@
-
 ## End of Game
 
-The goal of the game is to raise our mindfulness by: 
-- reach a state called shoshin,
-- reach equilibrium trough exercising the middle path; on emotions and experiences, 
+The goal of the game is to raise a players mindfulness by: 
+- reach back the shoshin state by having enough discs on their track,
+- reach equilibrium trough exercising the middle path, 
 - dismantle our patterns, which shadow our shoshin-state.
 
 ## Scoring and Winning
