@@ -1,3 +1,5 @@
+*Thematic ideas and background meanings are highlighted with crimson-coloured text whereas the rules itself have green text-colour throughout this manual.*
+
 Emotions are a way to connect and experience the reality we live in. We feel, we build relationship trough these emotions, we decide and take action and as a result of these, we feel again. Trough emotions we're socially connected and intertwined with all sentient beings. 
 
 Causality tells us that everything has a reason, a source to exist. A tree springs from a seed, a waterfall requires a river of water, living beings have their parents as their source. Actions and emotions both have motivations -underlying strategies of our ego- as their source and vice versa . Our ego normalises these and serves us only bite-size portions. As much as experiencing the emotions is an important factor so is becoming aware of them, observing their connections and the underlying motivations the basics to understand, build compassion and live a harmonious life.

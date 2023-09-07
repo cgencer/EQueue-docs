@@ -15,8 +15,6 @@ Whilst on the first- and second-level it is possible to spend some awareness for
 
  ![[IMG_3984.jpg]]
 ***Fulfilled emotion:** The first emotile, the dormant colour of yellow *(seed)* moves into the second level *(evolving)* on the next tile and on the next emotile, it comes into existence *(becoming)*. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.*
-
-**![IMG_3980.jpg](https://lh4.googleusercontent.com/hNA2vhttknLQZXBEEKvIKuMGE4JXWeeb34zalbLBrJUy8Ery5cFY_i_2Ma4M7HSk6ttxZ3ReZIv4oTic-L44LHutrzTGNVWoBs9-kVD12qwP89oDXoAE_kihcNYgPmUunFJBrUTMJkp9dKb-miJsdg)**
 ## Heritage Tiles
 
 *inheritance of emotions, tendencies on concern-axes*
@@ -29,6 +27,7 @@ Every player can have one or more pattern-tiles, showing a sequence of emotions,
 
 > [!Todo: Pattern Advantages and their Cost] 
 
-> [!TODO: Unbuilding the Wheel]
+> [!Todo: Detaching Emotions]
+## Layered Emotion Tile
 
-> [!TODO: Detaching Emotions]
+

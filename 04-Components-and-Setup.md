@@ -1,3 +1,5 @@
+## Main Board
+
 **![IMG_3977.jpg](https://lh3.googleusercontent.com/_JZfNdeVnk42BsWl0oo-GU8oc1PnGCpc7RfExv9tX3Jj13S1ox7Xxlzn3IDdPrD8BSZAP34l6IHeD9jehocI2zgkvLGEQ8EDMVcFKJt6t7NMbqlEqUNDA9c-O4z-EaHFcu-iyqtovZ5VV8MJkuc2Fw)
 
 - The main board is built out of eight sectors laid out as an octagonal shape. Shuffle these parts and join them according their borders and pins. 
@@ -13,3 +15,7 @@
 - Shuffle the pattern tiles and create a down-facing pile. Each player draws two from these as inherited patterns. These are laid out openly in front of the player.
 - Shuffle the event cards and deal each 6 cards.
 - Fill the shoshin-track of each player with 16 wooden disc markers.
+
+#### Shoshin-track & The Disc Markers
+
+**![IMG_3980.jpg](https://lh4.googleusercontent.com/hNA2vhttknLQZXBEEKvIKuMGE4JXWeeb34zalbLBrJUy8Ery5cFY_i_2Ma4M7HSk6ttxZ3ReZIv4oTic-L44LHutrzTGNVWoBs9-kVD12qwP89oDXoAE_kihcNYgPmUunFJBrUTMJkp9dKb-miJsdg)**
