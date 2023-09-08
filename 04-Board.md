@@ -1,4 +1,4 @@
-## The Board
+## The Main Board
 
 *usage of disc-markers, acquiring and replacing emotiles, removing disc-markers*
 

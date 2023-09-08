@@ -1,14 +1,7 @@
 *Thematic ideas and background meanings are highlighted with crimson-coloured text whereas the rules itself have green text-colour throughout this manual.*
 
-Emotions are a way to connect and experience the reality we live in. We feel, we build relationship trough these emotions, we decide and take action and as a result of these, we feel again. Trough emotions we're socially connected and intertwined with all sentient beings. 
+Emotions are a way to connect and experience the reality we live in. We feel, we build relationship trough these emotions, we decide and take action and all within a loop a causality. With emotions we're socially connected and intertwined with all sentient beings. 
 
-Causality tells us that everything has a reason, a source to exist. A tree springs from a seed, a waterfall requires a river of water, living beings have their parents as their source. Actions and emotions both have motivations -underlying strategies of our ego- as their source and vice versa . Our ego normalises these and serves us only bite-size portions. As much as experiencing the emotions is an important factor so is becoming aware of them, observing their connections and the underlying motivations the basics to understand, build compassion and live a harmonious life.
+EQueue is a semi-abstract, semi-coop tactical puzzle with a good amount of player interaction and a pinch of strategy. Not only does it provide a tactical game, it also provides a simple toolkit to understand and deal with the emotions from a holistic perspective. It uses various frameworks of ideas, both form the ancient eastern philosophies and social sciences of western thinkers.
 
-Social sciences help us understand emotions, their causes, effects and results by analysing and classifying them. Buddhism has a deep insight of our mind and its inner working collected from deep observations, how they become and evolve, how they lead us. Daoism has some methods which can help us handling them in a peaceful way.
-
-Our mind understands through opposites and references. One side of an opposite always attract us more, we choose this over that. Under the hood our mind classifies everything as pleasant, neutral and  unpleasant. We always have a bias towards pleasing and prefer to leave neutral and unpleasant aside.
-
-In its very core, buddhism shows us how to practice The Middle Path: if you observe a musician tuning the strings of his instrument, you'll see that the to loose or tense adjustment of the strings results with bad sounds. A better solution would be *The Middle Path* where only the required amount of tension / relaxing is applied. Same can be applied to our inner motivations for balancing life. Only use the necessary amount of them, nor less and not more.
-
-When practicing sports or music, repetitive practice trains our muscles to respond 
-Repeating emotional sequences become our *patterns*, sometimes even directing our behaviours because repetitive responses lead to having lesser awareness of the situation. Applying mindfulness trough observation brings understanding and dissolving patterns of emotions. This brings us closer to the mindful state within Zen 'Beginners Mind (*Shoshin*). Shoshin removes preconceptions and biases from our mind. The curiosity and joy of shoshin, the practice of the middle way and resolving our patterns can lead us to a harmonious life.
+Beside the fact that EQueue is a game on its own, EQueue can also be expanded into the game Samsara (which will also be coming up), a medium-heavy strategy game trough various modules.

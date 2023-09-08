@@ -1,0 +1,28 @@
+Chinese culture -especially daoism- has a long history of observing nature and human as its part. They have reflected the changes of the seasons onto subjects to learn its true nature which they call it Elemantal Phases or WuXing, Five Element Theory. The word elemental has nothing to do with its physical aspect, it only is described the phases' nature. This elemental wheel has two methods investigating the relation of phases; a feeding phase and a dominating phase.
+We can see the relationships each emotion to others has, when we project emotions onto this wheel of phases.
+## Feeding Cycle
+
+- ##### Fear -> Anger -> Hate
+- ##### Anger -> Hate -> Worry
+- ##### Hate -> Worry -> Sadness / Grief / Sorrow
+- ##### Worry -> Sadness / Grief / Sorrow -> Fear
+- ##### Sadness / Grief / Sorrow -> Fear -> Anger
+
+- ##### Compassion -> Kindness -> Love / Joy
+- ##### Kindness -> Love / Joy -> Equinimity
+- ##### Love / Joy -> Equinimity -> Courage
+- ##### Equinimity -> Courage -> Compassion
+- ##### Courage -> Compassion -> Kindness
+## Dominating Cycle
+
+- ##### Fear -> Joy
+- ##### Anger -> Equinimity
+- ##### Hate -> Courage
+- ##### Worry -> Compassion
+- ##### Sadness / Grief / Sorrow -> Kindness
+
+- ##### Compassion -> Hate
+- ##### Kindness -> Worry
+- ##### Joy -> Sadness / Grief / Sorrow
+- ##### Equinimity -> Fear
+- ##### Courage -> Anger

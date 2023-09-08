@@ -1,15 +1,17 @@
-EQueue is a semi-abstract, semi-coop tactical puzzle with a good amount of player interaction and a pinch of strategy. Players trigger emotions of others, sometimes creating a ripple-effect of sequenced emotions, with its pros and cons. Experience is gained trough various events, in the form of event cards. Using emotions and events changes our level of motivation on several aspects, which in turn becomes the motivator for other emotions and events. Every player also has to watch out for his emotional patterns, as they would cost precious awareness which is not easily gathered. 
-
-Beside the fact that EQueue is a game on its own, EQueue can also be expanded into the game Samsara (which will also be coming up), a medium-heavy strategy game trough various modules.
-
-The goal of the game is to raise our mindfulness by: 
-- reach a state called shoshin,
-- detach emotions while still being open to experience them, 
-- reach equilibrium trough exercising the middle path; on emotions and experiences, 
-- dismantle our patterns, which shadow our shoshin-state.
+As within life, players initiate emotions of other players, sometimes creating a ripple-effect of sequenced emotions, triggering patterns, and actions leading to new emotions. Using emotions and events changes our level of motivation on various aspects, silently motivating us for actions. Every player has to watch out for his inherited / learned emotional patterns, as they would cost awareness which is hardly earned, easily lost. 
 ## The Objective
 
-The game is played over three rounds. A round continues until all players pass. The game is finished after three rounds. The goal of each player is to nurture mindfulness, be aware of their emotional atmosphere, watch out and dissolve patterns and cut down on their motivation-axes while navigating through various events. While doing this, they will try to convert their coloured crystals into blank ones. At the end of the game, the player with the most blank crystals wins.
+The game is played over five rounds. A round continues until all players are not able to continue and pass. 
+
+The goal of the player is to get awareness of each ones emotional atmosphere by: 
+- reach a state called shoshin (to have a genuine curiousity)
+- while experiencing emotions without clinging / attachment
+- be aware of getting triggered by emotional patterns, trying to dissolve these
+- reach equilibrium through exercising the middle path on our intern motivations
+- dismantle our emotional patterns.
+- and optionally investigate and dismantle layered emotions.
+
+**While doing this, they will try to convert their coloured crystals into blank ones. At the end of the game, the player with the most blank crystals wins.**
 #### Emotional Continuity
 
 Cultivating the continuity of others' rising emotion is a players priority. Players compete each other by attaching emotiles to others queues to fulfil rising emotions. Getting triggered of one own patterns is a not preferred side-effect where every person has to deal with it on their own.

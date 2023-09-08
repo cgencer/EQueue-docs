@@ -1,6 +1,20 @@
-## Main Board
+#### Main Board:
+- #### Sectors
+- #### Axes
+#### Tiles:
+- #### Emotiles
+- #### Pattern Tiles
+- #### Layered Tiles
+#### Cards:
+- #### Personas:
+	- #### Parents
+	- #### Partners
+- #### Event Cards
+#### Players Components:
+- #### Shoshin-Track
+- #### Crystals
 
-**![IMG_3977.jpg](https://lh3.googleusercontent.com/_JZfNdeVnk42BsWl0oo-GU8oc1PnGCpc7RfExv9tX3Jj13S1ox7Xxlzn3IDdPrD8BSZAP34l6IHeD9jehocI2zgkvLGEQ8EDMVcFKJt6t7NMbqlEqUNDA9c-O4z-EaHFcu-iyqtovZ5VV8MJkuc2Fw)
+
 
 - The main board is built out of eight sectors laid out as an octagonal shape. Shuffle these parts and join them according their borders and pins. 
 
