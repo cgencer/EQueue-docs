@@ -5,16 +5,16 @@ EQueue is a semi-abstract & semi-coop tactical puzzle with lots of player intera
 - **[Introduction / Thematic Objective](01-Introduction)**
 - **[Game Overview](02-Game-Overview)**
 - **[Special Actions](09-Special-Actions.md)**
-- **[Components and Setup](03-Components-and-Setup.md)**
+- **[Components and Setup](03-Setup.md)**
 - **[Spread](10-Spread.md)**
-- **[Tutorial Game](11-Tutorial-Game.md)**
-- **[Boards](04-Board.md)**
-- **[Tiles](05-Tiles.md)**
-- **[Emotile Placement Examples](14-Placement-Examples.md)**
-- **[Cards](06-Cards.md)**
+- **[Tutorial Game](04-Tutorial-Game.md)**
+- **[Boards](05-Components-MainBoard.md)**
+- **[Tiles](06-Tiles.md)**
+- **[Emotile Placement Examples](06.1-Placement-Examples.md)**
+- **[Cards](07-Cards.md)**
 - **[Players](10-Players-and-Personas.md)**
 - **[End of Game / Scoring / Win Conditions](12-Endgame&Scoring&Win-Conditions.md)**
-- **[Appendix & FAQ](13-Appendix&FAQ.md)**
-- **[List of Components](16-List-of-Components.md)**
-- **[Glossary & Iconography](17-Glossary&Iconography.md)**
-- **[Credits](18-Credits.md)**
+- **[Appendix & FAQ](13-Appendix.md)**
+- **[List of Components](14-List-of-Components.md)**
+- **[Glossary & Iconography](15-Glossary&Iconography.md)**
+- **[Credits](16-Credits.md)**

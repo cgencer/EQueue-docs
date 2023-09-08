@@ -36,3 +36,17 @@ Each persona brings an emotional pattern. Whenever a persona is added to our int
 
 > [!Todo:] How to deal with traumatic issues
 #### Major Emotions
+
+
+
+
+## Card Actions
+#### Flip tile
+#### Grab tile into reserve
+#### Switch tiles
+#### Fill empty tile-spaces
+#### Play another card free
+#### Unbuild a marker
+#### Use any sector
+#### Unbuild queue
+#### Clean pattern

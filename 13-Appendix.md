@@ -9,3 +9,9 @@ In its very core, buddhism shows us how to practice The Middle Path: if you obse
 
 When practicing sports or music, repetitive practice trains our muscles to respond 
 Repeating emotional sequences become our *patterns*, sometimes even directing our behaviours because repetitive responses lead to having lesser awareness of the situation. Applying mindfulness trough observation brings understanding and dissolving patterns of emotions. This brings us closer to the mindful state within Zen 'Beginners Mind (*Shoshin*). Shoshin removes preconceptions and biases from our mind. The curiosity and joy of shoshin, the practice of the middle way and resolving our patterns can lead us to a harmonious life.
+
+## Wheel Of Emotions
+
+The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). The specific emotions have no importance within this game. [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of the emotions.
+![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
+When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a colour troughout tiles, representing the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning). 

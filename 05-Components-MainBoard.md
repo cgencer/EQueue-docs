@@ -1,3 +1,18 @@
+#### Main Board:
+- #### Sectors
+- #### Axes
+#### Tiles:
+- #### Emotiles
+- #### Pattern Tiles
+- #### Layered Tiles
+#### Cards:
+- #### Personas:
+	- #### Parents
+	- #### Partners
+- #### Event Cards
+#### Players Components:
+- #### Shoshin-Track
+- #### Crystals
 ## The Main Board
 
 *usage of disc-markers, acquiring and replacing emotiles, removing disc-markers*
