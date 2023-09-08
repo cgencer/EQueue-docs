@@ -15,6 +15,13 @@ Whilst on the first- and second-level it is possible to spend some awareness for
 
  ![[IMG_3984.jpg]]
 ***Fulfilled emotion:** The first emotile, the dormant colour of yellow *(seed)* moves into the second level *(evolving)* on the next tile and on the next emotile, it comes into existence *(becoming)*. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.*
+
+![[tilebag.jpg]]
+
+![[tile.jpeg]]
+
+![[placements.png]]
+
 ## Heritage Tiles
 
 *inheritance of emotions, tendencies on concern-axes*

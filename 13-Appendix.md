@@ -1,3 +1,4 @@
+**Attachment:** Emotions mostly require either an event or a persons participation. After surfacing, they have a short life-span, unless they are results of our thoughts or motivations. 
 
 Causality tells us that everything has a reason, a source to exist. A tree springs from a seed, a waterfall requires a river of water, living beings have their parents as their source. Actions and emotions both have motivations -underlying strategies of our ego- as their source and vice versa . Our ego normalises these and serves us only bite-size portions. As much as experiencing the emotions is an important factor so is becoming aware of them, observing their connections and the underlying motivations the basics to understand, build compassion and live a harmonious life.
 

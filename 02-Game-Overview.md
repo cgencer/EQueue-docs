@@ -1,4 +1,4 @@
-As within life, players initiate emotions of other players, sometimes creating a ripple-effect of sequenced emotions, triggering patterns, and actions leading to new emotions. Using emotions and events changes our level of motivation on various aspects, silently motivating us for actions. Every player has to watch out for his inherited / learned emotional patterns, as they would cost awareness which is hardly earned, easily lost. 
+As within our life, players build up emotions in relation with others, sometimes creating a ripple-effect of sequenced emotions, triggering patterns and actions leading to new emotions. Emotions and various events change our expectancies, silently motivating us for  actions. Every player has to watch out for his inherited and learned emotional patterns as they'd cost awareness which is hardly earned.
 ## The Objective
 
 The game is played over five rounds. A round continues until all players are not able to continue and pass. 
