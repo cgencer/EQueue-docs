@@ -14,7 +14,7 @@
 
 - Shuffle the pattern tiles and create a down-facing pile. Each player draws two from these as inherited patterns. These are laid out openly in front of the player.
 
-- Shuffle the event cards and deal each 6 cards.
+- Shuffle the event cards and deal each player 6.
 
-- Fill the shoshin-track of each player with 16 wooden disc markers.
+- Fill the shoshin-track of each player with their wooden disc markers.
 

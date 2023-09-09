@@ -1,7 +1,8 @@
 Players build up emotions onto others queues, sometimes creating a ripple-effect of sequenced emotions, triggering patterns and activating events which lead to new emotions. Emotions alter our expectancies, motivating us away from the middle path towards more experiences. Every player has to watch out for his inherited and learned emotional patterns as they'd cost awareness which is hardly earned. With the included optional expansion, players also might be able to dismantle emotions to discover the layered-nature of them.
 ## The Objective
 
-The game is played over five rounds. A round continues until all players finishing their crystal supply or cards in hand. In turn players pick emotiles, activates cards, apply the tiles to a queue and fulfil the results of any actions of cards in their turn. 
+The game is played over five rounds. A round continues until all players finish their crystals or cards in hand. In their turn players pick emotiles, activate cards, (may) apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. Each player has one slot to reserve a tile.
+
 The goal of each player is to increase their mindfulness through their emotional atmosphere by: 
 - reach a state called *shoshin* (to have a genuine curiosity) and equilibrium by exercising *the middle path* on our intern motivations
 - build *emotional continuity* and *experience (emotions) without attachment*
@@ -26,28 +27,27 @@ Thats why a player has to be aware of these patterns, avoid and/or dismantle the
 
 ## A Typical Turn:
 
-The gameplay is focused on the circular board and all players queue's.
-- Players pick emotion tiles matching the tiles' axes with one of their event cards' axis by these rules:
-	- a) The tile has to have a connection (shown with the lines of the grid) to the axis of a card in hand. 
-	- b) The player should have a matching card with the connected axis.
-	- c) The connection also has to be free of the players disc-markers.
-	- d) (If the tile is to be played directly) the tile has to match a queue.
-	- e) The shoshin-track of the player has remaining disc-markers to take from.
-	- f) If the visible of the emotile do not match a queue, and the player still takes it the tile and the event-card -without using its effects- is discarded, its location still to be marked with a disc.
-	- g) The player should have enough crystals (of his colour) to activate the card.
-	- h) Order of card activation and tile placement does not matter.
+- The gameplay is focused on the circular board and all players queue's.
+- Players pick emotiles according these rules:
+	- a) The marker-space of one of the two the adjacent axes with a matching card in-hand still has a space for the disc-marker.
+	- b) The space shouldn't be already occupied by the player.
+	- c) The shoshin-track of the player should have disc-markers to take from.
+	- d) **(If the tile is to be played directly)** the tile has to match a queue.
+		**(else, to reserve a tile)** Unless no reserved tile for the player exist the tile could be still taken even If its visible side do not match any queue. The matching event-card will be activated and the location has to be marked with the players disc.
+	- e) The player should have enough crystals (of his colour) to activate the matching card.
+	- f) Order of card activation and tile placement do not matter.
 - Pick up the emotile by moving one of your disc-markers from the shoshin-track to the connected axis' free space.
-- Pay the cost of the event-card with crystals of their colour.
-- Attach the gathered tile to the *queue* of another player, matching at least one colour stripe.
-- Carry out the results of the played card, action and / or crystals. 
+- Pay the cost (or receive) of the event-card with crystals of their colour.
+- Apply the gathered tile to the end of the *queue* of another player, matching at least one colour stripe.
+- Carry out the results of the played card if any, action and/or crystals. 
 ## End of Round
 
-The current round finishes when all players can't play anymore because their crystals are not enough / finished. Players having enough crystals **may** continue to play their turns. They **may** also pass the round while having enough crystals (to spend these on the next round) **after** at least one player passes. When all players pass, the round finishes. 
-## Preparation for the Next Round:
+The current round finishes when players can't play anymore because their crystals are not enough / finished. Players having enough crystals **may** continue to play their turns. **After** at least one player passes players **may** also pass their round (**NOT** turn) while having enough crystals to spend these on the next round. When all players pass, the round finishes. 
+#### Preparation for the Next Round:
 
 - Empty spaces on the sectors will be filled up with emotiles,
 - All activated cards will be discarded,
 - All persona cards will be replaced with five new personas, 
-- Reserved and not used emotile & event-cards will be discarded without the benefits.
-- Players draw a next set of 6 cards,
+- Reserved and not used emotile & event-cards will be discarded without their benefits.
+- Players draw a next set of 6 cards.
 - Players discard one of their persona cards, wile keeping its pattern tile active.

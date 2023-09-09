@@ -2,23 +2,21 @@
 
 *emotional chaining, continuity of emotion*
 
-The emotiles are double-sided five-coloured tiles with stripes which are attached to the end of other players queues. They are gathered from the octagonal board, The Eight Earthly Concerns. 
+The emotiles are double-sided five-coloured tiles with stripes which will be attached to the end of a players queue. These are picked from the octagonal board.
 
-![[tile.jpeg]]
+![[tile.jpg]]
 ***A Single Emotile:** the dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
 
-The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). The specific emotions have no importance within this game. [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of the emotions.
-![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
+Even though they bear no importance within the game, the colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). More info is available at [Appendix 13.1, The Colors of Emotions](13.1-The-Colors-of-Emotions).
+
 When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a colour troughout tiles, representing the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning). 
 
 Whilst on the first- and second-level it is possible to spend some awareness for observing *(dismantling a pattern)* it. On the last level, on becoming, it is already risen and can't be undone. Placement of the emotiles should follow the continuity of colours and tiles with no continuity shouldn't be placed.
 
  ![[IMG_3984.jpg]]
-***Fulfilled emotion:** The first emotile, the dormant colour of yellow *(seed)* moves into the second level *(evolving)* on the next tile and on the next emotile, it comes into existence *(becoming)*. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.*
+**A fulfilled emotion:** The first emotile, the dormant colour of yellow *(seed)* moves into the second level *(evolving)* on the next tile and it comes into existence *(becoming)* on the third. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.
 
 ![[tilebag.jpg]]
-
-![[tile.jpeg]]
 ## EmoTile Placement Examples
 
 ![[placements.png]]
