@@ -16,3 +16,19 @@ Repeating emotional sequences become our *patterns*, sometimes even directing ou
 The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). The specific emotions have no importance within this game. [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of the emotions.
 ![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
 When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a colour troughout tiles, representing the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning). 
+
+Shoshin: The more you know about a subject, the more likely you are to close your mind to further learning. As the Zen monk Shunryu Suzuki put it in his book _Zen Mind, Beginner’s Mind_ (1970): ‘In the beginner’s mind there are many possibilities, but in the expert’s there are few.’ Even _feeling_ like an expert also breeds closed-mindedness. To combat confirmation bias, be aware of it. Constantly remind yourself that it exists, and take active steps to work against it by seeking out information and perspectives that contradict your current position. In the 'shoshin' state of mind, you are:
+- **Free of preconceptions** of how you should approach change or growth
+- **Free of expectations** about what _should_ and _must_ happen
+- **Filled with curiosity** to understand things more deeply
+- **Open to a world of possibilities** to discover new approaches, ideas and ways things done from a fresh mindset.
+Start noticing your judgements more — when you jump to conclusions about anything, remind yourself to question them.
+Allow yourself to want to understand anew.
+Approach the world with a sense of authentic curiosity. Begin to see things with an eagerness to understand.
+Let go of limiting beliefs and let go of expertise.
+To incorporate a beginner’s mindset, Benjamin, Mark and Vincent [recommend](https://www2.deloitte.com/us/en/insights/topics/leadership/beginners-mindset-decision-making-for-leadership.html) that we consider these four possibilities:
+
+1. _What if my assumptions are wrong, despite the best evidence at hand?_
+2. _What if what seem to be perfect solutions drawn from history are no longer relevant?_
+3. _What if I could wish for anything I wanted?_
+4. _What if my critics are right?_

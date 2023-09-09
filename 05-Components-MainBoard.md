@@ -28,7 +28,6 @@ These rules apply to the usage of markers and acquiring emotiles:
 - Each marker-space can be occupied by the same player once. If it is already occupied, the player should advance to the next available space on same the axis.
 - Only the emotile connected to the filled marker-space with a line can be picked up.
 - Whenever an emotile is taken AND USED by attaching it to the end of a queue, a new one from the bag should be placed onto the emptied space. When it is RESERVED, the space remains empty until the time it is used.
-
 #### The Axes, [The Eight Earthly Concerns](https://encyclopediaofbuddhism.org/wiki/Eight_worldly_concerns)
 
 ==Praise and blame, success and failure, 
@@ -46,3 +45,6 @@ These are our innermost strategies to strive and survive. With some more insight
 - The motivations can be either the reason or result of emotions or events.
 - Emotions can either be the reasons to or results of events.
 - Events we experience within life can either be the reasons to or results.
+#### The Disc Markers
+
+**![IMG_3980.jpg](https://lh4.googleusercontent.com/hNA2vhttknLQZXBEEKvIKuMGE4JXWeeb34zalbLBrJUy8Ery5cFY_i_2Ma4M7HSk6ttxZ3ReZIv4oTic-L44LHutrzTGNVWoBs9-kVD12qwP89oDXoAE_kihcNYgPmUunFJBrUTMJkp9dKb-miJsdg)

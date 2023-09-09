@@ -19,9 +19,16 @@ Whilst on the first- and second-level it is possible to spend some awareness for
 ![[tilebag.jpg]]
 
 ![[tile.jpeg]]
+## EmoTile Placement Examples
 
 ![[placements.png]]
-
+1. Not any colours are continuing, placement of the second tile is NOT allowed.
+2. There is no middle-stage of orage, thus it is NOT allowed to place the second tile.
+3. Second tile should'nt be placed, as there is no continuity between the two. The third tile has both yellow and lila progressing, the second tile has no connections with the first, this queue is problematic, second tile shouldn't been attached.
+4. Both the yellow and blue colours work, but no begin-stage is available. They were allowed to play but with none fulfilled checkmarks are present. 
+5. The yellow checkmark is well advanced and completed.
+6. Two checkmarks have been completed: yellow (at the first tiles) and red (last three tiles). The green progression on 4th & 5th tiles are okay, as they were a side-result of the yellow checkmark.
+7. Red and yellow checkmarks at right side and progressing blue on the last tiles on left-side. But only the completed checkmarks are considered as fulfilled.
 ## Heritage Tiles
 
 *inheritance of emotions, tendencies on concern-axes*

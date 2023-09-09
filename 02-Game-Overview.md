@@ -1,20 +1,29 @@
-As within our life, players build up emotions in relation with others, sometimes creating a ripple-effect of sequenced emotions, triggering patterns and actions leading to new emotions. Emotions and various events change our expectancies, silently motivating us for  actions. Every player has to watch out for his inherited and learned emotional patterns as they'd cost awareness which is hardly earned.
+Players build up emotions onto others queues, sometimes creating a ripple-effect of sequenced emotions, triggering patterns and activating events which lead to new emotions. Emotions alter our expectancies, motivating us away from the middle path towards more experiences. Every player has to watch out for his inherited and learned emotional patterns as they'd cost awareness which is hardly earned. With the included optional expansion, players also might be able to dismantle emotions to discover the layered-nature of them.
 ## The Objective
 
-The game is played over five rounds. A round continues until all players are not able to continue and pass. 
+The game is played over five rounds. A round continues until all players finishing their crystal supply or cards in hand. In turn players pick emotiles, activates cards, apply the tiles to a queue and fulfil the results of any actions of cards in their turn. 
+The goal of each player is to increase their mindfulness through their emotional atmosphere by: 
+- reach a state called *shoshin* (to have a genuine curiosity) and equilibrium by exercising *the middle path* on our intern motivations
+- build *emotional continuity* and *experience (emotions) without attachment*
+- be mindful for *triggering patterns*, dissolve these when possible
+- and optionally investigate and *dismantle layered emotions*.
+#### *Shoshin State & Equilibrium*
 
-The goal of the player is to get awareness of each ones emotional atmosphere by: 
-- reach a state called shoshin (to have a genuine curiousity)
-- while experiencing emotions without clinging / attachment
-- be aware of getting triggered by emotional patterns, trying to dissolve these
-- reach equilibrium through exercising the middle path on our intern motivations
-- dismantle our emotional patterns.
-- and optionally investigate and dismantle layered emotions.
+Raising our tendencies and experiencing a known set of emotions (a ka patterns) regularly results with a loss of shoshin state. While we use the motivation axes to play event-cards, to increase our mindfulness, we have to keep the number of markers as low as possible on each of the axes. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track. This is *The Middle Path*.
+#### *Experience Without Attachment*
 
-**While doing this, they will try to convert their coloured crystals into blank ones. At the end of the game, the player with the most blank crystals wins.**
-#### Emotional Continuity
 
-Cultivating the continuity of others' rising emotion is a players priority. Players compete each other by attaching emotiles to others queues to fulfil rising emotions. Getting triggered of one own patterns is a not preferred side-effect where every person has to deal with it on their own.
+#### *Emotional Continuity*
+
+Cultivating (and fulfilling) the seeded emotions is every players priority. Players compete with each other by attaching emotiles to the end of others queue by matching at least one of the coloured stripes. 
+#### *Triggering (Emotional) Patterns*
+
+Every player has one or more patterns, results of the relationship with different personas. 
+They have to watch out if the fulfilled colours in the middle of their queue contains a matching colour-sequence. When a triggering happens, it results with loss of awareness (crystals) and/or some emotions *resurfacing*.
+Thats why a player has to be aware of these patterns, avoid and/or dismantle them.
+#### *Dismantling Emotions*
+
+
 ## A Typical Turn:
 
 The gameplay is focused on the circular board and all players queue's.
@@ -34,10 +43,11 @@ The gameplay is focused on the circular board and all players queue's.
 ## End of Round
 
 The current round finishes when all players can't play anymore because their crystals are not enough / finished. Players having enough crystals **may** continue to play their turns. They **may** also pass the round while having enough crystals (to spend these on the next round) **after** at least one player passes. When all players pass, the round finishes. 
-## Preparation for Upcoming Round:
+## Preparation for the Next Round:
 
 - Empty spaces on the sectors will be filled up with emotiles,
 - All activated cards will be discarded,
+- All persona cards will be replaced with five new personas, 
 - Reserved and not used emotile & event-cards will be discarded without the benefits.
 - Players draw a next set of 6 cards,
-- Players discard one of the persona cards, wile keeping its pattern tile.
+- Players discard one of their persona cards, wile keeping its pattern tile active.
