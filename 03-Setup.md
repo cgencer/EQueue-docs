@@ -14,7 +14,10 @@
 
 - Shuffle the partners deck and lay out 5 partners in a row, leaving the rest as a down-facing stack. Put the stack of inheritance tiles nearby the partners deck. Remember to draw an inheritance tile whenever a partner is being added to a player.
 
+- Apply the tendencies of the inheritance tiles to the eight axes by putting the depicted markers onto the spaces.
+
 - Shuffle the event cards and deal each player 6.
 
 - Fill the shoshin-track of each player with their wooden disc markers.
+
 

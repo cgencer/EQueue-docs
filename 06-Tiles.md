@@ -2,7 +2,7 @@
 
 *emotional chaining, continuity of emotion*
 
-The emotiles are double-sided tiles with five coloured stripes. They are picked up from the main board to be attached to the end of a players queue or held on at the players reserve.
+The emotiles are double-sided tiles with five coloured stripes. They are picked up from the main board to be attached to the end of a players queue or held on at the players reserve. Each of the tiles has two-sides, both are same coloured but one side has also symbols to distinguish stripes easily for colour-blindness.
 
 ![[tile.jpg]]
 ***A Single Emotile:** the dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
@@ -17,6 +17,7 @@ Whilst on the first- and second-level it is possible to spend some crystals for 
 **A fulfilled emotion:** The first emotile, the dormant colour of yellow *(seed)* moves into the second level *(evolving)* on the next tile and it comes into existence *(becoming)* on the third. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.
 
 ![[tilebag.jpg]]
+*The backside of the emotiles have symbols on each, to help distinguish the stripes easily.* 
 ## EmoTile Placement Examples
 
 ![[placements.png]]
@@ -30,20 +31,32 @@ Whilst on the first- and second-level it is possible to spend some crystals for 
 ## Inheritance Tiles 
 ##### ([[13-Appendix#^005365]])
 
-With every every persona we interact, we also get an inheritance tile. These act as our in-game missions, emotion patterns (sequences), tendencies and major triggering and usual emotions with its cost and benefits.
+With every every persona we interact, we also get an inheritance tile. These act as our in-game missions: tendencies and emotional narratives (patterns, triggering and usual emotions).
 
-There will be two types of inheritance tiles; Parents and Partners. The later having less features as the former. Take care to take tiles accordingly.
+There will be two types of inheritance tiles; for parents and partners. The later having less features as the former. Take care to take tiles accordingly.
 
+- ### Tendencies:
 
+These are the strategies we've developed as a result of the emotional narratives with our parents. They will be applied only on the setup stage of the game.
 
+- ### Emotional Narratives:
 
+Each persona has a set of emotional narratives which they tend to use regularly. 
+Only the parents teach us to act in a set of emotional sequences, their narratives include patterns.
 
+- ##### Patterns:
 
-> [!Todo:] Getting triggered, its benefits to have it
+ Patterns are learned emotional behaviours, maybe strategies. The familiarity of these results with earning advantages while loosing some awareness. Whenever our queue establishes such a sequence (initiated by others) we experience the pattern. Every establishment of the pattern fortifies the results. Although they return some advantages, it is also mandatory to dismantle them in order to loose less.
+ 
+- ##### Major (Triggering) Emotion:
 
-> [!Todo: Pattern Advantages and their Cost] 
+ When using the layered emotions add-on, this color will be the entrance for dismantling layered emotions. Otherwise it is only the most-occurring emotion of the personas narrative. 
+
+- ##### Usual Emotions:
+
+The lesser occurring emotions of the narrative.
 
 > [!Todo: Detaching Emotions]
-## Layered Emotion Tile
+
 
 
