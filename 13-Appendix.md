@@ -1,3 +1,29 @@
+## [The Eight Earthly Concerns](https://encyclopediaofbuddhism.org/wiki/Eight_worldly_concerns)
+^b7d79b
+
+==Praise and blame, success and failure, 
+pleasure and pain, and fame and disrepute;==
+==these are the eight worldly conditions that revolve around the world and==
+==the world revolves around these eight worldly conditions.==
+
+The axes act as a source for emotions, four dualistic, mundane concerns that generally motivate our actions. These common denominators or major tendencies are the so-called *eight earthly concerns*, throwing us out-of-balance by triggering emotions.
+- hope for pleasure / happiness & fear of pain / suffering,
+- hope for gain & fear of loss,
+- hope for praise & fear of blame,
+- hope for good reputation / fame & fear of bad reputation / shame.
+These are our innermost strategies to strive and survive. With some more insight, we could relate all of our emotions, decisions and actions to these motivations.  Preoccupation with these worldly concerns is said to be an important obstacle on our path.
+
+- The motivations can be either the reason or result of emotions or events.
+- Emotions can either be the reasons to or results of events.
+- Events we experience within life can either be the reasons to or results.
+
+## The Middle Path
+
+We become dissatisfied of any situation because we always want just a bit more than the last time. We will have stronger needs and requirements each and every time we use these tendencies. Because of this raised expectations, we feel things stronger but we also won't get satisfied.
+
+Playing the event-cards pushes our motivations on the eight axes to a higher level -outwards- bringing us further away from the middle. These raising expectations are the result of our previous events, the discs from the shoshin-track move to the axes marking their usage.
+
+As we progress, we discover that giving way to more and more is not a solution for finding happiness. We should cut down our expectations in order to get satisfaction. To do this, we have to unbuild these motivators and raise our shoshin-level hopefully back to its initial state, at least to its minimal level.
 ## Attachments
 
 Emotions mostly require either an event or a persons participation. After surfacing, they have a short life-span, unless they are results of our thoughts or motivations. 
@@ -18,7 +44,8 @@ The colours represent the basic emotional groups (anger, disgust, interest, joy,
 ![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
 When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a colour throughout tiles, representing the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning). 
 ## Inheritances
-^005365
+^024396
+
 Family ties bring many emotional interactions and we tend to memorize these and their responses. These are a set of emotional sequences we learn while we grow up. 
 We also develop tendencies or biases according to these responses. These tendencies create motivations, our strategies of survival within life.
 
