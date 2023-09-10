@@ -1,4 +1,6 @@
-**Attachment:** Emotions mostly require either an event or a persons participation. After surfacing, they have a short life-span, unless they are results of our thoughts or motivations. 
+## Attachments
+
+Emotions mostly require either an event or a persons participation. After surfacing, they have a short life-span, unless they are results of our thoughts or motivations. 
 
 Causality tells us that everything has a reason, a source to exist. A tree springs from a seed, a waterfall requires a river of water, living beings have their parents as their source. Actions and emotions both have motivations -underlying strategies of our ego- as their source and vice versa . Our ego normalises these and serves us only bite-size portions. As much as experiencing the emotions is an important factor so is becoming aware of them, observing their connections and the underlying motivations the basics to understand, build compassion and live a harmonious life.
 
@@ -10,14 +12,23 @@ In its very core, buddhism shows us how to practice The Middle Path: if you obse
 
 When practicing sports or music, repetitive practice trains our muscles to respond 
 Repeating emotional sequences become our *patterns*, sometimes even directing our behaviours because repetitive responses lead to having lesser awareness of the situation. Applying mindfulness trough observation brings understanding and dissolving patterns of emotions. This brings us closer to the mindful state within Zen 'Beginners Mind (*Shoshin*). Shoshin removes preconceptions and biases from our mind. The curiosity and joy of shoshin, the practice of the middle way and resolving our patterns can lead us to a harmonious life.
-
-## Wheel Of Emotions
+## Colours and The Wheel Of Emotions
 
 The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). The specific emotions have no importance within this game. [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of the emotions.
 ![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
-When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a colour troughout tiles, representing the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning). 
+When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a colour throughout tiles, representing the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning). 
+## Inheritances
+^005365
+Family ties bring many emotional interactions and we tend to memorize these and their responses. These are a set of emotional sequences we learn while we grow up. 
+We also develop tendencies or biases according to these responses. These tendencies create motivations, our strategies of survival within life.
 
-Shoshin: The more you know about a subject, the more likely you are to close your mind to further learning. As the Zen monk Shunryu Suzuki put it in his book _Zen Mind, Beginner’s Mind_ (1970): ‘In the beginner’s mind there are many possibilities, but in the expert’s there are few.’ Even _feeling_ like an expert also breeds closed-mindedness. To combat confirmation bias, be aware of it. Constantly remind yourself that it exists, and take active steps to work against it by seeking out information and perspectives that contradict your current position. In the 'shoshin' state of mind, you are:
+As partners tend to repeat and/or add to our parents inheritances, partner tiles have less features. 
+#### Patterns
+
+Patterns are automated emotional interactions, which means that their outcome is loosing some awareness. They trigger some behaviours in return, sometimes a planned response (in material or other form) from the persona.
+#### Shoshin
+
+The more you know about a subject, the more likely you are to close your mind to further learning. As the Zen monk Shunryu Suzuki put it in his book _Zen Mind, Beginner’s Mind_ (1970): ‘In the beginner’s mind there are many possibilities, but in the expert’s there are few.’ Even _feeling_ like an expert also breeds closed-mindedness. To combat confirmation bias, be aware of it. Constantly remind yourself that it exists, and take active steps to work against it by seeking out information and perspectives that contradict your current position. In the 'shoshin' state of mind, you are:
 - **Free of preconceptions** of how you should approach change or growth
 - **Free of expectations** about what _should_ and _must_ happen
 - **Filled with curiosity** to understand things more deeply

@@ -10,9 +10,9 @@
 
 - Separate the parents deck into two piles by gender and shuffle these. Deal out two parent persona cards (as father and mother) and stash the rest back into the box; they won't be used within this game.
 
-- Shuffle the partners deck and lay out 5 partners in a row.
+- Separate the inheritance tiles into two piles by type, shuffle these and put them as two  down-facing stacks. Each player draws two from these for their parents which will be laid out openly in front of the player. Remove the remaining inheritance tiles for parents as they won't be required anymore. 
 
-- Shuffle the pattern tiles and create a down-facing pile. Each player draws two from these as inherited patterns. These are laid out openly in front of the player.
+- Shuffle the partners deck and lay out 5 partners in a row, leaving the rest as a down-facing stack. Put the stack of inheritance tiles nearby the partners deck. Remember to draw an inheritance tile whenever a partner is being added to a player.
 
 - Shuffle the event cards and deal each player 6.
 
