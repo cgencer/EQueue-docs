@@ -26,6 +26,9 @@ As partners tend to repeat and/or add to our parents inheritances, partner tiles
 #### Patterns
 
 Patterns are automated emotional interactions, which means that their outcome is loosing some awareness. They trigger some behaviours in return, sometimes a planned response (in material or other form) from the persona.
+#### Emotional Narratives
+
+Both the major and regular emotions show us the experienced emotions in relation with each persona. We are familiar and comfortable with the experienced ones and shy away from the rest. Experiencing different emotions helps us to deal with them easier. The combined 'emotional knowledge' on all personas emotional narratives show us our experienced emotions, whereas we could see the rest which we still need to learn from. 
 #### Shoshin
 
 The more you know about a subject, the more likely you are to close your mind to further learning. As the Zen monk Shunryu Suzuki put it in his book _Zen Mind, Beginner’s Mind_ (1970): ‘In the beginner’s mind there are many possibilities, but in the expert’s there are few.’ Even _feeling_ like an expert also breeds closed-mindedness. To combat confirmation bias, be aware of it. Constantly remind yourself that it exists, and take active steps to work against it by seeking out information and perspectives that contradict your current position. In the 'shoshin' state of mind, you are:

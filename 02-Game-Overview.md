@@ -16,11 +16,11 @@ Raising our tendencies and experiencing a known set of emotions (a ka patterns) 
 
 #### *Emotional Continuity*
 
-Cultivating (and fulfilling) the seeded emotions is every players priority. Players compete with each other by attaching emotiles to the end of others queue by matching at least one of the coloured stripes. 
+Cultivating (and fulfilling) the seeded emotions is every players priority. Players compete with each other by attaching emotiles to the end of others queue by matching at least one of the colored stripes. 
 #### *Triggering (Emotional) Patterns*
 
 Every player has one or more patterns, results of the relationship with different personas. 
-They have to watch out if the fulfilled colours in the middle of their queue contains a matching colour-sequence. When a triggering happens, it results with loss of awareness (crystals) and/or some emotions *resurfacing*.
+They have to watch out if the fulfilled colors in the middle of their queue contains a matching color-sequence. When a triggering happens, it results with loss of awareness (crystals) and/or some emotions *resurfacing*.
 Thats why a player has to be aware of these patterns, avoid and/or dismantle them.
 #### *Dismantling Emotions*
 
@@ -34,11 +34,11 @@ Thats why a player has to be aware of these patterns, avoid and/or dismantle the
 	- c) The shoshin-track of the player should have disc-markers to take from.
 	- d) **(If the tile is to be played directly)** the tile has to match a queue.
 		**(else, to reserve a tile)** Unless no reserved tile for the player exist the tile could be still taken even If its visible side do not match any queue. The matching event-card will be activated and the location has to be marked with the players disc.
-	- e) The player should have enough crystals (of his colour) to activate the matching card.
+	- e) The player should have enough crystals (of his color) to activate the matching card.
 	- f) Order of card activation and tile placement do not matter.
 - Pick up the emotile by moving one of your disc-markers from the shoshin-track to the connected axis' free space.
-- Pay the cost (or receive) of the event-card with crystals of their colour.
-- Apply the gathered tile to the end of the *queue* of another player, matching at least one colour stripe.
+- Pay the cost (or receive) of the event-card with crystals of their color.
+- Apply the gathered tile to the end of the *queue* of another player, matching at least one color stripe.
 - Carry out the results of the played card if any, action and/or crystals. 
 ## End of Round
 

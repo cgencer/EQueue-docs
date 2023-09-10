@@ -19,7 +19,7 @@
 
 ![[wheel.JPG]]
 
-The octagonal main board is built of eight sector tiles divided trough four axes of opposite themes, *The Eight Earthly Concerns*. Each sector has three levels with blank spaces for emotiles, connected with marker-spaces trough a network. When acquiring emotiles, a player has to leave a disc-marker of his colour on the next available space of that axis. 
+The octagonal main board is built of eight sector tiles divided trough four axes of opposite themes, *The Eight Earthly Concerns*. Each sector has three levels with blank spaces for emotiles, connected with marker-spaces trough a network. When acquiring emotiles, a player has to leave a disc-marker of his color on the next available space of that axis. 
 
 ![[sectors.png]]
 These rules apply to the usage of markers and acquiring emotiles:
