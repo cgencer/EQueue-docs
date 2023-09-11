@@ -4,7 +4,7 @@
 
 - Fill up the blank emotile spaces between the axes by drawing them from the bag (any side). The color of the middle stripe shouldn't match with any adjacent tiles different levels and adjacent sectors. Replace any such matching tiles with different ones from the bag.
 
-- Distribute one emotile from the bag to each player as their beginning tiles. These will be queued in front of them, visible and accessible by other players.
+- Distribute one emotile from the bag to each player as their beginning tiles. These will be queued in front of them, visible and accessible to other players.
 
 - Leave the remaining emotiles within the bag for further usage.
 

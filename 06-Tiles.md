@@ -2,7 +2,7 @@
 ^b91eec
 *emotional queue, continuity of emotions, fulfilling emotions*
 
-The emotiles are double-sided tiles with five colored stripes. They are picked up from the main board to be attached to the end of a players queue or held on at the players reserve. Each of the tiles has two-sides, both are same colored but one side has also symbols to distinguish stripes easily for color-blindness.
+The emotiles are tiles with five colored stripes. They are picked up from the main board to be attached to the end of a players queue or held on at the players reserve. Each of the tiles has two-sides, both are same colored but one side has also symbols to distinguish stripes easily for color-blindness.
 
 Even though they bear no importance within the game, the colors represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). More info is available at [[13.1-The-Colors-of-Emotions|Appendix 13.1, The Colors of Emotions]].
 
