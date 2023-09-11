@@ -4,10 +4,7 @@
 
 The emotiles are double-sided tiles with five colored stripes. They are picked up from the main board to be attached to the end of a players queue or held on at the players reserve. Each of the tiles has two-sides, both are same colored but one side has also symbols to distinguish stripes easily for color-blindness.
 
-![[tile.jpg]]
-***A Single Emotile:** the dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
-
-Even though they bear no importance within the game, the colors represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). More info is available at [Appendix 13.1, The Colors of Emotions](13.1-The-Colors-of-Emotions).
+Even though they bear no importance within the game, the colors represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). More info is available at [[13.1-The-Colors-of-Emotions|Appendix 13.1, The Colors of Emotions]].
 
 When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a color-stripe troughout a few tiles. This represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right. Their side bears no meaning. 
 

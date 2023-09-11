@@ -1,30 +1,36 @@
-Players build up emotions onto others queues, sometimes creating a ripple-effect of sequenced emotions, triggering patterns and activating events which lead to new emotions. Emotions alter our expectancies, motivating us away from the middle path towards more experiences. Every player has to watch out for his inherited and learned emotional patterns as they'd cost awareness which is hardly earned. With the included optional expansion, players also might be able to dismantle emotions to discover the layered-nature of them.
+Emotions alter our expectancies, motivating us towards new experiences. Players pick up and build up emotions onto others queues, triggering patterns and activating events which lead to new emotions. 
+Every player also has to watch out and dismantle the emotional patterns costing us some awareness which is rare these days. 
+With the included optional expansion, players also might able to dismantle emotions to discover the layered-nature of them.
 ## The Objective
 
-The game is played over five rounds. A round continues until all players finish their crystals or cards in hand. In their turn players pick emotiles, activate cards, (may) apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. Each player has one slot to reserve a tile.
+The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. In turn-order they pick emotiles, activate cards, apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. 
 
-The goal of each player is to increase their mindfulness through their emotional atmosphere by: 
-- reach a state called *shoshin* (to have a genuine curiosity) and equilibrium by exercising *the middle path* on our intern motivations
-- build *emotional continuity* and *experience (emotions) without attachment*
-- be mindful for *triggering patterns*, dissolve these when possible
+The goal of each player is to increase their mindfulness through their emotional awareness by: 
+- reach a state called *[[13-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13-Appendix#^dcd6f9|the middle path]]* on our intern motivations
+- build *[[#Emotional Continuity]]* with *[[#Awareness of Emotions|awareness of emotions]]*.
+- be mindful for *triggering patterns*, dissolve these
 - and optionally investigate and *dismantle layered emotions*.
-#### *Shoshin State & Equilibrium*
+##### *Shoshin State & Equilibrium*
 
 Raising our tendencies and experiencing a known set of emotions (a ka patterns) regularly results with a loss of shoshin state. While we use the motivation axes to play event-cards, to increase our mindfulness, we have to keep the number of markers as low as possible on each of the axes. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track. This is *The Middle Path*.
-#### *Experience Without Attachment*
+##### *Emotional Continuity*
 
+*Please refer to [[06-Tiles#^666a75|Emotiles]] for a detailed information.*
 
-#### *Emotional Continuity*
+Players compete with each other by attaching emotiles to the end of others queue by matching at least one of the colored stripes on the previous tile. 
 
-Cultivating (and fulfilling) the seeded emotions is every players priority. Players compete with each other by attaching emotiles to the end of others queue by matching at least one of the colored stripes. 
-#### *Triggering (Emotional) Patterns*
+![[tile.jpg]]
+***A Single Emotile:** The dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
+
+When tiles are attached consecutively a continuity of a color-stripe becomes visible throughout the tiles. It represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning).
+##### Awareness of Emotions and Removing Attachment
+
+The rising of an emotion is an interplay between others and us. The first two stages are created by other players attaching tiles onto our queue. If we are aware of the risen emotion by completing its last stage we earn another awareness crystal (from our storage) for practicing mindfulness. The risen emotion with its three stages get discarded from the queue. In this way our attachment to the emotion has been removed. But if others get it done before we were able to, we will loose one crystal and they will receive a crystal (from their storage) because we haven't been aware of this arising.
+##### *Triggering (Emotional) Patterns*
 
 Every player has one or more patterns, results of the relationship with different personas. 
 They have to watch out if the fulfilled colors in the middle of their queue contains a matching color-sequence. When a triggering happens, it results with loss of awareness (crystals) and/or some emotions *resurfacing*.
 Thats why a player has to be aware of these patterns, avoid and/or dismantle them.
-#### *Dismantling Emotions*
-
-
 ## A Typical Turn:
 
 - The gameplay is focused on the circular board and all players queue's.
