@@ -2,13 +2,14 @@
 - ##### [[#Sectors and Axes]]
 - ##### [[#Acquiring Emotiles]]
 - ##### [[#Marker Placement on the Axes]]
-#### [[06-Tiles]]
-- ##### [[06.1-EmoTiles]]
+#### Tiles
+- ##### [[06.1-EmoTiles|EmoTiles]]
 - ##### [[06.1-EmoTiles#^a64b67|Placement Examples]]
 - ##### [[06.2-Narrative-Tiles|Narrative Tiles]]
-#### [[07-Cards]]
-- ##### [[07-Cards#^d71eb6|Personas and Partners]]
-- ##### [[07-Cards#^f2190b|Event Cards]]
+#### Cards
+- ##### [[07.1-Event-Cards|Event Cards]]
+- ##### [[07.1-Event-Cards#^d71eb6|Personas and Partners]]
+- ##### [[07.1-Event-Cards#^f2190b|Event Cards]]
 #### [[08-Players-Components]]:
 - ##### Shoshin-Track
 - ##### Crystals

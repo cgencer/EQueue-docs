@@ -1,5 +1,0 @@
-
-> [!Todo: Detaching Emotions]
-
-
-
