@@ -1,5 +1,4 @@
 Emotions alter our expectancies, motivating us towards new experiences. Players pick up and build up emotions onto others queues, triggering patterns and activating events which lead to new emotions. 
-Every player also has to watch out and dismantle the emotional patterns costing us some awareness which is rare these days. 
 With the included optional expansion, players also might able to dismantle emotions to discover the layered-nature of them.
 ## The Objective
 ^0f9129
@@ -7,12 +6,17 @@ With the included optional expansion, players also might able to dismantle emoti
 The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. Players have colored awareness crystals to pay where awareness is required, most of all on activating the event-cards. 
 The goal of each player is to collect clear (colorless) crystals throughout the game. In turn-order they pick emotiles, activate cards, apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. By the end of fifth round, the player who has the most clear crystals wins.
 
-Various places exist where we spend / earn awareness crystals or collect clear crystals:
+Various methods exist where we spend / earn awareness crystals or collect clear crystals:
 - being in a state called *[[13-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13-Appendix#^dcd6f9|the middle path]]*
 - build *[[#Emotional Continuity|emotional continuity]]* by *[[#Recognising Emotions|recognising emotions]]*.
 - collecting sets of experienced emotions and self-completed emotions.
 - dissolving own *triggering patterns*
 - and optionally investigating and *dismantling layered emotions*.
+
+##### The Crystals, The Currency of Awareness and Mindfulness
+
+Colored crystals act as our awareness, tinted with our personality color. Throughout the game our actions and choices require our intention and awareness applied to a given situation; it's like we pay with some awareness to experience things. We use the colored crystals as a means to pay for various actions by diminishing our awareness. 
+In the end we strive to cultivate mindfulness, which has to be unbiased and attachment-free. For this we collect the colorless blank crystals.
 ##### *Shoshin State & Equilibrium*
 
 Raising our tendencies and experiencing a known set of emotions (a ka patterns) regularly results with a loss of shoshin state. While we use the motivation axes to play event-cards, to increase our mindfulness, we have to keep the number of markers as low as possible on each of the axes. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track. This is *The Middle Path*.
@@ -69,4 +73,4 @@ The current round finishes when players can't play anymore because their crystal
 - All persona cards will be replaced with five new personas, 
 - Reserved and not used emotile & event-cards will be discarded without their benefits.
 - Players draw a next set of 6 cards and each player takes 16 crystals from their storage.
-- Players discard one of their persona cards, while keeping the narrrative tiles idle.
+- Players discard one of their persona cards, while keeping the narrative tiles idle.

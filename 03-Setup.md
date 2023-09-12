@@ -20,4 +20,6 @@
 
 - Fill the shoshin-track of each player with their wooden disc markers.
 
+- Put the clear crystals within a container into the center of the board, accessible to all.
+
 

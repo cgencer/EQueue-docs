@@ -3,9 +3,9 @@
 - ##### [[#Acquiring Emotiles]]
 - ##### [[#Marker Placement on the Axes]]
 #### [[06-Tiles]]
-- ##### [[06-Tiles#^b91eec|EmoTiles]]
-- ##### [[06-Tiles#^a64b67|Placement Examples]]
-- ##### [[06-Tiles#^eddaaf|Narrative Tiles]] 
+- ##### [[06.1-EmoTiles]]
+- ##### [[06.1-EmoTiles#^a64b67|Placement Examples]]
+- ##### [[06.2-Narrative-Tiles|Narrative Tiles]]
 #### [[07-Cards]]
 - ##### [[07-Cards#^d71eb6|Personas and Partners]]
 - ##### [[07-Cards#^f2190b|Event Cards]]
@@ -20,7 +20,7 @@
 
 #### Sectors and Axes
 
-The octagonal main board is built of eight sector tiles divided trough four axes of opposite themes, *[[13-Appendix#^b7d79b|The Eight Earthly Concerns]]*. Each sector has three levels with blank spaces for emotiles, connected with marker-spaces trough a network of lines. When acquiring emotiles, players have to move one of their disc-markers from their shoshin-track onto the next available marker-space of an axis.
+The octagonal main board is built of eight sectors divided with four axes of opposite motivations, *[[13-Appendix#^b7d79b|The Eight Earthly Concerns]]*. Each sector has three levels with blank spaces for emotiles, connected with marker-spaces trough a network of lines. When acquiring emotiles, players have to move one of their disc-markers from their shoshin-track onto the next available marker-space of an axis.
 
 ![[sectors.png]]
 
