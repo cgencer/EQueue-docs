@@ -1,25 +1,25 @@
-Emotions alter our expectancies, motivating us towards new experiences. Players pick up and build up emotions onto others queues, triggering patterns and activating events which lead to new emotions. 
-With the included optional expansion, players also might able to dismantle emotions to discover the layered-nature of them.
+Emotions alter our expectancies, motivating us towards new experiences. Players pick up and build up emotions onto queues, sometime triggering patterns and activating events which lead to new emotions. Experiencing events lead to new emotions, preferably to new ones. Dealing and taking care of your emotions needs to be practiced wisely and among family, friends and our partners, we also should give attention to what we may trigger upon them as well.
+
+With the included optional expansion, players also might able to dismantle emotions to discover and understand the layered-nature of them.
 ## The Objective
 ^0f9129
 
-The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. Players have colored awareness crystals to pay where awareness is required, most of all on activating the event-cards. 
-The goal of each player is to collect clear (colorless) crystals throughout the game. In turn-order they pick emotiles, activate cards, apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. By the end of fifth round, the player who has the most clear crystals wins.
+The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. Players will have awareness crystals in their color to pay where awareness is required, most of all on activating the event-cards. By our choices, actions and the emotions we handle, we collect clear (colorless) crystals throughout the game. By the end of fifth round, the player who has the most clear crystals wins.
 
-Various methods exist where we spend / earn awareness crystals or collect clear crystals:
+Various methods exist where we spend/earn awareness crystals and/or collect clear crystals:
 - being in a state called *[[13-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13-Appendix#^dcd6f9|the middle path]]*
 - build *[[#Emotional Continuity|emotional continuity]]* by *[[#Recognising Emotions|recognising emotions]]*.
 - collecting sets of experienced emotions and self-completed emotions.
 - dissolving own *triggering patterns*
 - and optionally investigating and *dismantling layered emotions*.
-
 ##### The Crystals, The Currency of Awareness and Mindfulness
 
-Colored crystals act as our awareness, tinted with our personality color. Throughout the game our actions and choices require our intention and awareness applied to a given situation; it's like we pay with some awareness to experience things. We use the colored crystals as a means to pay for various actions by diminishing our awareness. 
-In the end we strive to cultivate mindfulness, which has to be unbiased and attachment-free. For this we collect the colorless blank crystals.
+Colored crystals act as our awareness, tinted with our personality color. Throughout the game our actions and choices require our intention and awareness applied to a given situation; it's just like we pay with some awareness to experience things, but in this way we diminish our awareness. 
+During the game we should strive to cultivate mindfulness, to be unbiased and attachment-free. The colorless blank crystals represent our evolvement as a focused and untainted mindfulness. 
 ##### *Shoshin State & Equilibrium*
 
-Raising our tendencies and experiencing a known set of emotions (a ka patterns) regularly results with a loss of shoshin state. While we use the motivation axes to play event-cards, to increase our mindfulness, we have to keep the number of markers as low as possible on each of the axes. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track. This is *The Middle Path*.
+Shoshin is a Zen (japanese buddhist way) term describing a mindset preferring the eagerness to learn over previous memories. The more you know about a subject, the more likely you are to close your mind to further learning.
+Increasing motivations and playing within a known set of emotions is a loss of our shoshin state. Playing event-cards increase our motivations, but cultivating mindfulness requires us to keep the distribution of markers low. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track.
 ##### *Emotional Continuity*
 ^c05e76
 
