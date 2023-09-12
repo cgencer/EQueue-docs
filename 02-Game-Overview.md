@@ -4,13 +4,15 @@ With the included optional expansion, players also might able to dismantle emoti
 ## The Objective
 ^0f9129
 
-The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. In turn-order they pick emotiles, activate cards, apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. 
+The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. Players have colored awareness crystals to pay where awareness is required, most of all on activating the event-cards. 
+The goal of each player is to collect clear (colorless) crystals throughout the game. In turn-order they pick emotiles, activate cards, apply tile(-s) to queue(-s) and fulfil the results of any actions of cards in their turn. By the end of fifth round, the player who has the most clear crystals wins.
 
-The goal of each player is to increase their mindfulness through their emotional awareness by: 
-- reach a state called *[[13-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13-Appendix#^dcd6f9|the middle path]]* on our intern motivations
-- build *[[#Emotional Continuity]]* with *[[#Awareness of Emotions|awareness of emotions]]*.
-- be mindful for *triggering patterns*, dissolve these
-- and optionally investigate and *dismantle layered emotions*.
+Various places exist where we spend / earn awareness crystals or collect clear crystals:
+- being in a state called *[[13-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13-Appendix#^dcd6f9|the middle path]]*
+- build *[[#Emotional Continuity|emotional continuity]]* by *[[#Recognising Emotions|recognising emotions]]*.
+- collecting sets of experienced emotions and self-completed emotions.
+- dissolving own *triggering patterns*
+- and optionally investigating and *dismantling layered emotions*.
 ##### *Shoshin State & Equilibrium*
 
 Raising our tendencies and experiencing a known set of emotions (a ka patterns) regularly results with a loss of shoshin state. While we use the motivation axes to play event-cards, to increase our mindfulness, we have to keep the number of markers as low as possible on each of the axes. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track. This is *The Middle Path*.
@@ -24,13 +26,13 @@ Players compete with each other by attaching emotiles to the end of others queue
 ![[tile.jpg]]
 ***A Single Emotile:** The dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
 
-When tiles are attached consecutively a continuity of a color-stripe becomes visible throughout the tiles. It represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning).
+By attaching tiles consecutively the stripes form a visible checkmark throughout the tiles. It represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion from outermost stage *(seed)* to its second stage *(evolving)* and lastly to the middle third stage *(completion)* fulfills the emotion, facing either left or right (towards us or other, which bears no importance).
 ##### Recognising Emotions
 *take-that interplay of emotions*
 
-The rising of an emotion is an interplay between other players and us. The first two stages are created by other players attaching tiles onto our queue. If we recognise the risen emotion by completing its last stage we can earn an awareness crystal (from our storage) for practicing mindfulness. Break the last three tiles out of the queue, save the last tile and discard the 1st and 2nd stage tiles. These completed and saved tiles form a collection of our *emotional intelligence (EQ)*.
+The rising of an emotion is an interplay between other players and us. The first two stages are created by other players attaching tiles onto our queue. If we recognise the risen emotion by completing its last stage we earn a colored crystal (from our storage) for using with next turns. Break the last three tiles out of the queue, save the last tile and discard the 1st and 2nd stage tiles. These completed and saved tiles form a collection of our *emotional intelligence (EQ)*.
 
-If a completion could happen while another emotion rises, the completion of an emotion has priority. A completion by one player has precedence over rising of a seed or evolving tile of another player, of course within turn order.
+When a completion happens while another rises, the completion has priority. A completion by one player has precedence over the rising of a seed / evolving stages of another player, of course within turn order.
 
 But if others are able to get the checkmark done before us we'll loose one crystal because we haven't been aware of and recognised this emotion.
 
@@ -38,10 +40,10 @@ Because every player has a capacity to reserve one tile, with a bit of planning 
 ##### Emotional Intelligence (EQ)
 *set collection of experienced and completed emotions*
 
-Experiencing and learning to deal with a variety of emotions builds up our emotional intelligence. A set can also be built only with completed emotions or with a mixed set of  through experienced emotions with personas plus the completed emotions through recognising. Several emotions on personas could be distributed among several sets. Multiple sets gives multiple bonus. 
+Experiencing and learning to deal with a variety of emotions builds up our emotional intelligence. A set can also be built only with completed emotions or with a mixed set of  through experienced emotions with personas plus the completed emotions through recognising. Several emotions on personas could be distributed among several sets. The number of sets completed acts as a multiplier for the total number of clear crystals.
 ##### *Triggering (Emotional) Patterns*
 
-Every player has one or more patterns as the outcome of their relationships (with personas). Players have to watch out if completed emotions matches the color-sequence of a pattern even with other emotions in-between. When one of our patterns emerges it results initiates a crisis, resulting with loss of all crystals for this round. Players have to prioritize to watch out for these patterns and dismantle them.
+Every player has one or more patterns as the outcome of their relationships (with personas). Players have to watch out if completed emotions matches the color-sequence of a pattern even with other emotions in-between. When one of our patterns emerges it results initiates a crisis, resulting with loss of all colored crystals for this round. Players have to prioritize to watch out for these patterns and dismantle them.
 ## A Typical Turn:
 
 - The gameplay is focused on the circular board and all players queue's.

@@ -6,7 +6,7 @@ The emotiles are tiles each with five colored stripes. They are picked up from t
 
 Even though they bear no importance within the game, the colors represent the basic emotional groups anger, disgust, interest, joy, sadness, surprise, fear and trust. You can find more info on this grouping at [[13.1-The-Colors-of-Emotions|Appendix 13.1, The Colors of Emotions]].
 
-When tiles are attached to a queue, strategic placement of the tiles creates a continuity of a color-stripe throughout a few tiles. Three of these build a visual checkmark. This represents the growing of an emotion: a dormant emotion *(seed)* gets nurtured and grows into existence *(evolving)*. Lastly by adding the third stage *(becoming)*, it becomes the checkmark, its side bears no meaning. 
+When tiles are attached to a queue, strategic placement of the tiles creates a continuity of a color throughout a few tiles. Three of these stripes build a visual checkmark. This represents the growing of an emotion: a dormant emotion *(seed)* gets nurtured and grows into existence *(evolving)*. Lastly by adding the third stage *(becoming)*, it becomes the checkmark, its side bears no meaning. 
 
 Whilst on the first- and second-level the tiles have to be attached by other players.. On the last level, it is already risen and therefor need to be recognised by the owner of the queue before others do. If we observe and recognise the risen emotion by completing its last stage we can earn an awareness crystal (from our storage) for practicing mindfulness.
 
