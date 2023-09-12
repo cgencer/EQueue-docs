@@ -24,6 +24,12 @@ Each persona brings an emotional pattern. Whenever a persona is added to our int
 *The father figure has gambling as traumatic issues. The mother figure has orange as major emotion.* 
 #### Traumatic Issues
 
+When bad things happen, it can take a while to get over the pain and feel safe again.
+
+Emotional and psychological trauma is the result of extraordinarily stressful events that shatter your sense of security, making you feel helpless in a dangerous world. Psychological trauma can leave you struggling with upsetting emotions, memories, and anxiety that won’t go away. It can also leave you feeling numb, disconnected, and unable to trust other people.
+
+Traumatic experiences often involve a threat to life or safety, but any situation that leaves you feeling overwhelmed and isolated can result in trauma, even if it doesn’t involve physical harm. It’s not the objective circumstances that determine whether an event is traumatic, but your subjective emotional experience of the event. The more frightened and helpless you feel, the more likely you are to be traumatized.
+
 > [!Todo:] How to deal with traumatic issues
 
 #### Partners

@@ -25,11 +25,20 @@ Players compete with each other by attaching emotiles to the end of others queue
 ***A Single Emotile:** The dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
 
 When tiles are attached consecutively a continuity of a color-stripe becomes visible throughout the tiles. It represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right (the side has no meaning).
-##### Awareness of Emotions and Removing Attachment
+##### Recognising Emotions
+*take-that interplay of emotions*
 
-The rising of an emotion is an interplay between others and us. The first two stages are created by other players attaching tiles onto our queue. If we are aware of the risen emotion by completing its last stage we earn another awareness crystal (from our storage) for practicing mindfulness. The risen emotion with its three stages get discarded from the queue. In this way our attachment to the emotion has been removed. But if others get it done before we were able to, we will loose one crystal and they will receive a crystal (from their storage) because we haven't been aware of this arising.
+The rising of an emotion is an interplay between other players and us. The first two stages are created by other players attaching tiles onto our queue. If we recognise the risen emotion by completing its last stage we can earn an awareness crystal (from our storage) for practicing mindfulness. Break the last three tiles out of the queue, save the last tile and discard the 1st and 2nd stage tiles. These completed and saved tiles form a collection of our *emotional intelligence (EQ)*.
 
-Because every player has a capacity to reserve a tile, they can do a double placement of emotiles (with the event-card played in-between), resulting with direct completion of risen emotions.
+If a completion could happen while another emotion rises, the completion of an emotion has priority. A completion by one player has precedence over rising of a seed or evolving tile of another player, of course within turn order.
+
+But if others are able to get the checkmark done before us we'll loose one crystal because we haven't been aware of and recognised this emotion.
+
+Because every player has a capacity to reserve one tile, with a bit of planning they can do a double placement of emotiles (with the event-card played in-between), resulting with express completion of an emotion.
+##### Emotional Intelligence (EQ)
+*set collection of experienced and completed emotions*
+
+Experiencing and learning to deal with a variety of emotions builds up our emotional intelligence. A set can also be built only with completed emotions or with a mixed set of  through experienced emotions with personas plus the completed emotions through recognising. Several emotions on personas could be distributed among several sets. Multiple sets gives multiple bonus. 
 ##### *Triggering (Emotional) Patterns*
 
 Every player has one or more patterns as the outcome of their relationships (with personas). Players have to watch out if completed emotions matches the color-sequence of a pattern even with other emotions in-between. When one of our patterns emerges it results initiates a crisis, resulting with loss of all crystals for this round. Players have to prioritize to watch out for these patterns and dismantle them.

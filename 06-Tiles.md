@@ -2,13 +2,15 @@
 ^b91eec
 *emotional queue, continuity of emotions, fulfilling emotions*
 
-The emotiles are tiles with five colored stripes. They are picked up from the main board to be attached to the end of a players queue or held on at the players reserve. Each of the tiles has two-sides, both are same colored but one side has also symbols to distinguish stripes easily for color-blindness.
+The emotiles are tiles each with five colored stripes. They are picked up from the main board and either attached to the end of a queue or held on reserve. The tiles are two-sided, same colored with one side symbols to distinguish stripes for color-blindness.
 
-Even though they bear no importance within the game, the colors represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). More info is available at [[13.1-The-Colors-of-Emotions|Appendix 13.1, The Colors of Emotions]].
+Even though they bear no importance within the game, the colors represent the basic emotional groups anger, disgust, interest, joy, sadness, surprise, fear and trust. You can find more info on this grouping at [[13.1-The-Colors-of-Emotions|Appendix 13.1, The Colors of Emotions]].
 
-When tiles are attached one-by-one, consecutive placement of the tiles creates a continuity of a color-stripe troughout a few tiles. This represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion, from outermost level *(seed)* to the second-level *(evolving)* and lastly to the middle third-level *(becoming)*, form a visual checkmark facing either left or right. Their side bears no meaning. 
+When tiles are attached to a queue, strategic placement of the tiles creates a continuity of a color-stripe throughout a few tiles. Three of these build a visual checkmark. This represents the growing of an emotion: a dormant emotion *(seed)* gets nurtured and grows into existence *(evolving)*. Lastly by adding the third stage *(becoming)*, it becomes the checkmark, its side bears no meaning. 
 
-Whilst on the first- and second-level it is possible to spend some crystals for being aware of its growth. On the last level, on becoming, it is already risen and can't be suppressed. Placement of the emotiles should follow the continuity of colors and tiles with no continuity shouldn't be placed. New tiles should be placed where the arrow points to, at the queue's end.
+Whilst on the first- and second-level the tiles have to be attached by other players.. On the last level, it is already risen and therefor need to be recognised by the owner of the queue before others do. If we observe and recognise the risen emotion by completing its last stage we can earn an awareness crystal (from our storage) for practicing mindfulness.
+
+Placement of the emotiles should carry the continuity of colors further and tiles without continuity shouldn't be placed. Each new tile is to be placed where the arrow points to, at the queue's end.
 
  ![[IMG_3984.jpg]]
 **A fulfilled emotion:** The first emotile, the dormant color of yellow *(seed)* moves into the second level *(evolving)* on the next tile and it comes into existence *(becoming)* on the third. The red on the 1st and 2nd tiles don't have a seed emotion. With the next emotile, a blue in the middle could fulfil another emotion.
