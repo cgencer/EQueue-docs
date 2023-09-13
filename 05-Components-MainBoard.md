@@ -22,23 +22,24 @@
 
 #### Octants and Axes
 
-The octagonal placed main board is built of eight parts (called octants) divided with four axes of opposite motivations, *[[13-Appendix#^b7d79b|The Eight Earthly Concerns]]*. Each octant has three levels of blank spaces for emotiles, connected with marker-spaces trough a network of lines. To pick an emotile players have to move one of their disc-shaped markers from their shoshin-track onto the next available marker-space of an axis.
+The octagonal placed main board is built of eight parts (called octants) divided with four axes of opposite motivations, as described in Appendix-I: *[[13-Appendix#^b7d79b|The Eight Earthly Concerns]]*. Each octant has three levels of space for emotiles and are connected with marker-spaces trough a network of lines. To pick an emotile players have to move one of their disc-shaped markers from their shoshin-track onto the next available marker-space of an axis.
 
 ![[sectors.png]]
 
 #### Picking Emotiles
 
 - Each marker-space has different connections shown with solid lines. Only the emotile connected to the placed disc-marker can be picked up.
-- Whenever an emotile is picked up it has to be applied to the end of a queue or reserved.
-- For reserving an emotile, refer to [[09-Special-Actions#^dd5bad||Reserving EmoTiles]].
+- Whenever an emotile is picked up it has to be applied to the end of a queue or put to the reserve. For reserving an emotile, refer to Special Actions: [[09-Special-Actions#^dd5bad||Reserving EmoTiles]].
 - For placing markers, follow the rules for marker placement:
 #### Marker Placement on the Axes
 
 The axes between the octants represent various personal motivations or tendencies. Thematically these are *The Eight Worldly Concerns*. 
-Our motivations increase with the event-cards played. The discs we place onto the axes raise our motivations. They get moved from the shoshin-track to put it onto an available marker-spaces following these rules:
-- The player matches specific axis of the event-card with the axes of the board to pick an emotile from the connected locations. 
+Our motivations increase with the discs we place to activate event-cards. They get moved from the shoshin-track to an available marker-spaces according these rules:
+- The player matches specific axis of the event-card with the axes of the board to pick an emotile from its connected spaces. 
 - Placement is restricted to a decreasing number of players by level (e.g. 3 players on 1st level (inner), 2 players on 2nd level and 1 player on the 3rd (outer) level are allowed).
-- On any axis at any level, only one marker per player is allowed to occupy. If maximum is already reached, the new marker has to be placed onto the next level. If all spaces are occupied, the axis won't be available anymore.
+- On any axis at any level, only one marker per player is allowed to occupy. 
+- If the maximum of a space is reached, the marker has to be placed onto the next level. 
+- If all spaces are occupied, the axis won't be available to any player.
 - Refer to the [[09-Special-Actions#^380cb8|Special Actions: Unbuilding Markers]] for removing markers from the axes. 
 
 **![IMG_3980.jpg](https://lh4.googleusercontent.com/hNA2vhttknLQZXBEEKvIKuMGE4JXWeeb34zalbLBrJUy8Ery5cFY_i_2Ma4M7HSk6ttxZ3ReZIv4oTic-L44LHutrzTGNVWoBs9-kVD12qwP89oDXoAE_kihcNYgPmUunFJBrUTMJkp9dKb-miJsdg)

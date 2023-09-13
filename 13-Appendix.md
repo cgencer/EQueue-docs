@@ -1,4 +1,4 @@
-## [The Eight Earthly Concerns](https://encyclopediaofbuddhism.org/wiki/Eight_worldly_concerns)
+## I. [The Eight Earthly Concerns](https://encyclopediaofbuddhism.org/wiki/Eight_worldly_concerns)
 ^b7d79b
 
 ==Praise and blame, success and failure, 
