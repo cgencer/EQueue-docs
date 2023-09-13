@@ -1,25 +1,23 @@
-- The main board consists of eight sectors laid out in an octagonal shape. Shuffle the parts and join them according their borders and pins. Place axis names facing each other in opposites: happiness / suffering, gain / loss, fame / shame and praise / blame. The order of their placement does not matter.
+## Setup of the Game
+
+- The main board consists of eight octants laid out in a circular order. Shuffle the parts and join them to fit their sides borders matching the pins. Place the axis names facing each other in opposites: happiness / suffering, gain / loss, fame / shame and praise / blame. The order of their placement is unimportant.
 
 - All emotiles will be put into the provided bag and shuffled. 
 
-- Fill up the blank emotile spaces between the axes by drawing them from the bag (any side). The color of the middle stripe shouldn't match with any adjacent tiles different levels and adjacent sectors. Replace any such matching tiles with different ones from the bag.
+- Fill up the blank spaces on each octant by drawing them from the bag (any side). The color of the middle stripe shouldn't match with any adjacent tiles on levels and octants. Replace any matching tiles with different ones from the bag.
 
-- Distribute one emotile from the bag to each player as their beginning tiles. These will be queued in front of them, visible and accessible to other players.
+- Distribute an emotile from the bag to each player as beginning tiles. The queue of emotiles will be built in front of each, visible and accessible to other players.
 
-- Leave the remaining emotiles within the bag for further usage.
+- Leave the remaining emotiles within the bag aside for further usage.
 
-- Separate the parents deck into two piles by gender and shuffle these. Deal out two parent persona cards (as father and mother) and stash the rest back into the box; they won't be used within this game.
+- Separate the parents deck into piles by gender and shuffle both. Deal out two parent persona cards (as father and mother) and stash the rest away; they won't be used within this game.
 
-- Separate the inheritance tiles into two piles by type, shuffle these and put them as two  down-facing stacks. Each player draws two from these for their parents which will be laid out openly in front of the player. Remove the remaining inheritance tiles for parents as they won't be required anymore. 
+- Separate the narrative tiles, shuffle these and stack them down-facing. Draw one for each parent and put these openly in front of the player. 
 
-- Shuffle the partners deck and lay out 5 partners in a row, leaving the rest as a down-facing stack. Put the stack of inheritance tiles nearby the partners deck. Remember to draw an inheritance tile whenever a partner is being added to a player.
+- Shuffle the partners deck and lay out 5 partners in a row, leaving the rest as a down-facing stack nearby. Draw one narrative tile for each partner card, and put it just below each visibly. 
 
-- Apply the tendencies of the inheritance tiles to the eight axes by putting the depicted markers onto the spaces.
+- Fill the shoshin-track of each player with their wooden disc markers. Each player now modifies their tendencies as written on the picked narrative tiles onto the axes by moving markers from their shoshin-track onto the spaces.
 
-- Shuffle the event cards and deal each player 6.
-
-- Fill the shoshin-track of each player with their wooden disc markers.
+- Shuffle the event cards and deal each player 6 one-by-one.
 
 - Put the clear crystals within a container into the center of the board, accessible to all.
-
-

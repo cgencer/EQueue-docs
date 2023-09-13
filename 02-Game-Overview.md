@@ -22,13 +22,22 @@ Shoshin is a Zen (japanese buddhist way) term describing a mindset preferring th
 Increasing motivations and playing within a known set of emotions is a loss of our shoshin state. Playing event-cards increase our motivations, but cultivating mindfulness requires us to keep the distribution of markers low. The first level on each axis is an acceptable minimum, any markers above that lowers our shoshin-track.
 ##### *Emotional Continuity*
 ^c05e76
-
 *Please refer to [[06-Tiles#^666a75|Emotiles]] for a detailed information.*
-
 ![[tile.jpg]]
 ***A Single Emotile:** The dormant emotions blue and light green, followed by its second-level orange and yellow and in the center light green.*
 
 By attaching tiles consecutively the stripes form a visible checkmark throughout the tiles. It represents the growing of an emotion: a dormant emotion gets nurtured and grows into existence. The rising emotion from outermost stripe as first stage *(seed)* to its second stage *(evolving)* and lastly to the middle third stage *(completion)* fulfills the emotion, facing either left or right (towards us or other, which bears no importance).
+##### Picking Up EmoTiles
+
+Picking up an emotile is done through matching the axis with an event-card to be played.
+Players pick emotiles according these rules:
+	- a) The marker-space of one of the two the adjacent axes with a matching card in-hand still has a space for the disc-marker.
+	- b) The space shouldn't be already occupied by the player.
+	- c) The shoshin-track of the player should have disc-markers to take from.
+	- d) **(If the tile is to be played directly)** the tile has to match a queue.
+		**(else, to reserve a tile)** An unmatching tile could be still taken **unless no reserved tile** for the player exists. Refer to [[09-Special-Actions#^dd5bad|Special Actions: Reserving EmoTiles]].
+	- e) The player should have enough crystals (of his color) to activate the matching card.
+	- f) Order of card activation and tile placement do not matter.
 ##### Recognising Emotions
 *take-that interplay of emotions*
 
@@ -45,33 +54,27 @@ Because every player has a capacity to reserve one tile, with a bit of planning 
 ##### Emotional Intelligence (EQ)
 *set collection of experienced and completed emotions*
 
-Experiencing and learning to deal with a variety of emotions builds up our emotional intelligence. Building sets of emotions enriches our EQ. A set can be built either with **recognised** emotions or trough a mixed set of recognised and the experienced emotions with personas. Several of the same emotion could be distributed among different sets, but only one appearance is allowed. The number of sets completed acts as a multiplier for the total number of clear crystals.
+Building sets of emotions enriches our EQ. A set can contain **recognised** emotions or  experienced emotions via personas. Same emotions from different personas could be distributed among different sets. The player earns the number of recognised emotions as colorless crystals on each set completion.
 ##### *Triggering (Emotional) Patterns*
 
-Every player has one or more patterns as the side-result of their relationships (with personas). Players have to watch out if completed emotions matches the sequence of a pattern even with other emotions in-between. An emerging pattern results with the loss of all colored crystals, stopping player to play further within the round. Players have to take special care to watch out for these patterns and dismantle them.
+Every player has one or more patterns as the side-result of their relationships (with personas). Players have to watch out if a series of completed emotions on their queue match the sequence of a pattern even with other emotions in-between. An emerging pattern results with the loss of all colored crystals, stopping the player to play further within the round. Players have to take special care to watch out for these patterns and try to dismantle them.
 ## A Typical Turn:
 
 - The gameplay is focused on the circular board and all players queue's.
-- Players pick emotiles according these rules:
-	- a) The marker-space of one of the two the adjacent axes with a matching card in-hand still has a space for the disc-marker.
-	- b) The space shouldn't be already occupied by the player.
-	- c) The shoshin-track of the player should have disc-markers to take from.
-	- d) **(If the tile is to be played directly)** the tile has to match a queue.
-		**(else, to reserve a tile)** An unmatching tile could be still taken **unless no reserved tile** for the player exists. Refer to [[09-Special-Actions#^dd5bad|Special Actions: Reserving EmoTiles]].
-	- e) The player should have enough crystals (of his color) to activate the matching card.
-	- f) Order of card activation and tile placement do not matter.
-- Pick up the emotile by moving one of your disc-markers from the shoshin-track to the connected axis' free space.
-- Pay the cost (or receive) of the event-card with crystals of their color.
-- Apply the gathered tile(-s) to the end of the *queue*s, matching at least one color stripe.
-- Carry out the results of the played card if any, action and/or crystals. 
+- Pick up the emotile by following its [[#Picking Up EmoTiles|rules]] (as mentioned above), 
+- Activate the event-card by paying its cost/receiving its benefit with crystals of their color. The paid amount goes to their reserve.
+- They move one of their markers from the shoshin-track to the axis' matching the event-card onto the connecting space to the emotile they want to take.
+- Player **may** use a previously reserved tile, if present.
+- Either apply the picked tile(-s) to the end of a *queue* or put it as reserved aside.
+- Carry out the results of the played card. 
 ## End of Round
 
-The current round finishes when players can't play anymore because their crystals are not enough / finished. Players having enough crystals **may** continue to play their turns. **After** at least one player passes players **may** also pass their round (**NOT** turn) while having enough crystals to spend these on the next round. When all players pass, the round finishes. 
+The current round finishes for each player when there are not enough crystals for activation. Players having enough crystals **may** continue to play their turns or they may pass, **after** at least one player passes. This way they can save their crystals for the upcoming round. 
 #### Preparation for the Next Round:
 
 - Empty spaces on the sectors will be filled up with emotiles,
-- All activated cards will be discarded,
-- All persona cards will be replaced with five new personas, 
-- Reserved and not used emotile & event-cards will be discarded without their benefits.
+- All activated cards will go to the discard pile,
+- Persona cards will be replaced with five new ones, 
+- Reserved and not used emotile & event-cards will be discarded without applying their benefits.
 - Players draw a next set of 6 cards and each player takes 16 crystals from their storage.
 - Players discard one of their persona cards, while keeping the narrative tiles idle.

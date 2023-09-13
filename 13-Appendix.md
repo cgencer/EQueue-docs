@@ -16,7 +16,6 @@ These are our innermost strategies to strive and survive. With some more insight
 - The motivations can be either the reason or result of emotions or events.
 - Emotions can either be the reasons to or results of events.
 - Events we experience within life can either be the reasons to or results.
-
 ## The Middle Path
 
 ^dcd6f9
@@ -40,10 +39,6 @@ In its very core, buddhism shows us how to practice The Middle Path: if you obse
 
 When practicing sports or music, repetitive practice trains our muscles to respond 
 Repeating emotional sequences become our *patterns*, sometimes even directing our behaviours because repetitive responses lead to having lesser awareness of the situation. Applying mindfulness trough observation brings understanding and dissolving patterns of emotions. This brings us closer to the mindful state within Zen 'Beginners Mind (*Shoshin*). Shoshin removes preconceptions and biases from our mind. The curiosity and joy of shoshin, the practice of the middle way and resolving our patterns can lead us to a harmonious life.
-## Colours and The Wheel Of Emotions
-
-The colours represent the basic emotional groups (anger, disgust, interest, joy, sadness, surprise, fear, trust). The specific emotions have no importance within this game. [Robert Plutchik](https://en.wikipedia.org/wiki/Robert_Plutchik "en:Robert Plutchik")'s [Wheel of Emotions](https://en.wikipedia.org/wiki/Emotion_classification#Plutchik's_wheel_of_emotions "en:Emotion classification" is an overview of most well-known emotions and their colors ()) is a good reference for classificaton and colour representation of the emotions.
-![Emotional Classifications by Robert Plutchik](Plutchik-emotions.png)
 ## Narrative Tiles
 ^024396
 
@@ -75,3 +70,7 @@ To incorporate a beginner’s mindset, Benjamin, Mark and Vincent [recommend](h
 2. _What if what seem to be perfect solutions drawn from history are no longer relevant?_
 3. _What if I could wish for anything I wanted?_
 4. _What if my critics are right?_
+
+##### Emotional Intelligence (EQ)
+
+Experiencing and learning to deal with a variety of emotions builds up our emotional intelligence. 
