@@ -22,7 +22,7 @@
 
 #### Octants and Axes
 
-The octagonal placed main board is built of eight parts (called octants) divided with four axes of opposite motivations, as described in Appendix-I: *[[13-Appendix#^b7d79b|The Eight Earthly Concerns]]*. Each octant has three levels of space for emotiles and are connected with marker-spaces trough a network of lines. To pick an emotile players have to move one of their disc-shaped markers from their shoshin-track onto the next available marker-space of an axis.
+The octagonal placed main board is built of eight parts (called octants) divided with four axes of opposite motivations, as described in Appendix-I: *[[13.A-Appendix#^b7d79b|The Eight Earthly Concerns]]*. Each octant has three levels of space for emotiles and are connected with marker-spaces trough a network of lines. To pick an emotile players have to move one of their disc-shaped markers from their shoshin-track onto the next available marker-space of an axis.
 
 ![[sectors.png]]
 

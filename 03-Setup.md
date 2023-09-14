@@ -14,7 +14,7 @@
 
 - Separate the narrative tiles, shuffle these and stack them down-facing. Draw one for each parent and put these openly in front of the player. 
 
-- Shuffle the partners deck and lay out 5 partners in a row, leaving the rest as a down-facing stack nearby. Draw one narrative tile for each partner card, and put it just below each visibly. 
+- Shuffle the partners deck and draw one card for each player, representing their character. Then lay out 5 partners in a row, leaving the rest as a down-facing stack nearby. Draw one narrative tile for each partner card, and put it just below each visibly. 
 
 - Fill the shoshin-track of each player with their wooden disc markers. Each player now modifies their tendencies as written on the picked narrative tiles onto the axes by moving markers from their shoshin-track onto the spaces.
 

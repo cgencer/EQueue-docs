@@ -7,7 +7,7 @@ With the included optional expansion, players also might able to dismantle emoti
 The game is played over five rounds. A round continues until all players finish their crystals or unactivated cards in their hand. Players compete with each other by attaching emotiles to the end of others queue by matching at least one of the colored stripes on the previous tile. They will use crystals in their color to pay where awareness is required, mostly on activating the event-cards. By choices, actions and the emotions we handle, we collect clear (colorless) crystals throughout the game. By the end of fifth round, the player who has the most clear crystals wins.
 
 Various methods exist where we spend/earn awareness crystals and/or collect clear crystals:
-- being in a state called *[[13-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13-Appendix#^dcd6f9|the middle path]]*
+- being in a state called *[[13.A-Appendix#^d822f1|shoshin]]* and equilibrium by exercising *[[13.A-Appendix#^dcd6f9|the middle path]]*
 - build *[[#Emotional Continuity|emotional continuity]]* by *[[#Recognising Emotions|recognising emotions]]*.
 - collecting sets of experienced emotions and self-completed emotions.
 - dissolving own *triggering patterns*
@@ -61,6 +61,7 @@ Every player has one or more patterns as the side-result of their relationships 
 ## A Typical Turn:
 
 - The gameplay is focused on the circular board and all players queue's.
+- Player may match with a partner if not done already which ends their turn.
 - Pick up the emotile by following its [[#Picking Up EmoTiles|rules]] (as mentioned above), 
 - Activate the event-card by paying its cost/receiving its benefit with crystals of their color. The paid amount goes to their reserve.
 - They move one of their markers from the shoshin-track to the axis' matching the event-card onto the connecting space to the emotile they want to take.
