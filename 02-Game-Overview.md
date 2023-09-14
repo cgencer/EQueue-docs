@@ -15,7 +15,7 @@ Various methods exist where we spend/earn awareness crystals and/or collect clea
 ##### The Crystals, The Currency of Awareness and Mindfulness
 
 Colored crystals act as our awareness, tinted with our personality color. Throughout the game our actions and choices require our intention and awareness applied to a given situation; it's just like we pay with some awareness to experience things, but in this way we diminish our awareness. 
-During the game we should strive to cultivate mindfulness, to be unbiased and attachment-free. The colorless blank crystals represent our evolvement as a focused and untainted mindfulness. 
+During the game we should strive to cultivate mindfulness, to be unbiased and attachment-free. The colorless blank crystals represent our progress of an untainted, pure mindfulness. 
 ##### *Shoshin State & Equilibrium*
 
 Shoshin is a Zen (japanese buddhist way) term describing a mindset preferring the eagerness to learn over previous memories. The more you know about a subject, the more likely you are to close your mind to further learning.
@@ -79,3 +79,4 @@ The current round finishes for each player when there are not enough crystals fo
 - Reserved and not used emotile & event-cards will be discarded without applying their benefits.
 - Players draw a next set of 6 cards and each player takes 16 crystals from their storage.
 - Players discard one of their persona cards, while keeping the narrative tiles idle.
+- Decide on the new player order by the number of clear crystals in reverse order. If tie occurs, the player with the shorter queue has precedence. 

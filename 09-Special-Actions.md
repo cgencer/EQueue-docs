@@ -14,3 +14,5 @@ As we progress and more event-cards got activated, the marker-spaces of the axes
 #### Converting crystals into blank crystals
 
 #### Defining turn-order
+
+Every round the turn order changes according to the number of clear crystals the players have gathered in **reverse order**. The player with the least crystals becomes first player and the one with the most becomes the last player. On a tie of crystal numbers the length of their queue decides in reverse order; the shorter queue has precedence.
