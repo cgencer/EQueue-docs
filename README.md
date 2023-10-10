@@ -27,4 +27,4 @@ EQueue is a semi-abstract & semi-coop tactical puzzle with lots of player intera
 	- ##### ![[12-FAQ|Frequently Asked Questions]]
 - ![[14-List-of-Components|List of Components]]
 - ![[15-Glossary&Iconography|Glossary and Iconography]]
-- ![[16-Credits|Credits]]
+- ![[16-Player Aids|Credits]]

@@ -13,6 +13,7 @@
 - ##### [[07.1-Event-Cards#^f2190b|Event Cards]]
 #### [[08-Players-Components]]:
 - ##### Shoshin-Track
+- ##### Stress / Tranquility Track
 - ##### Crystals
 ## The Main Board
 
@@ -39,7 +40,7 @@ Our motivations increase with the discs we place to activate event-cards. They g
 - Placement is restricted to a decreasing number of players by level (e.g. 3 players on 1st level (inner), 2 players on 2nd level and 1 player on the 3rd (outer) level are allowed).
 - On any axis at any level, only one marker per player is allowed to occupy. 
 - If the maximum of a space is reached, the marker has to be placed onto the next level. 
-- If all spaces are occupied, the axis won't be available to any player.
+- If all spaces are occupied with regards to the numbers each space can hold, the axis won't be available to any player.
 - Refer to the [[09-Special-Actions#^380cb8|Special Actions: Unbuilding Markers]] for removing markers from the axes. 
 
 **![IMG_3980.jpg](https://lh4.googleusercontent.com/hNA2vhttknLQZXBEEKvIKuMGE4JXWeeb34zalbLBrJUy8Ery5cFY_i_2Ma4M7HSk6ttxZ3ReZIv4oTic-L44LHutrzTGNVWoBs9-kVD12qwP89oDXoAE_kihcNYgPmUunFJBrUTMJkp9dKb-miJsdg)

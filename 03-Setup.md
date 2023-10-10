@@ -18,6 +18,8 @@
 
 - Fill the shoshin-track of each player with their wooden disc markers. Each player now modifies their tendencies as written on the picked narrative tiles onto the axes by moving markers from their shoshin-track onto the spaces.
 
+- Each player puts a marker onto the centre of their stress/ tranquility track.
+
 - Shuffle the event cards and deal each player 6 one-by-one.
 
 - Put the clear crystals within a container into the center of the board, accessible to all.
