@@ -16,7 +16,7 @@ Various methods exist where we spend/earn crystals and/or collect clear crystals
 ##### The Crystals, Currency of Attention, Awareness and Mindfulness
 
 Colored crystals act as our attention / awareness, tinted with our personality color. Throughout the game our actions and choices require our attention or awareness applied to a given situation, which lowers our overall awareness. 
-During the game we should strive to cultivate mindfulness, unbiased and attachment-free represented by the colorless crystals accumulating our untainted and pure mindfulness. 
+During the game the player aims to cultivate mindfulness, unbiased and attachment-free represented by the colorless crystals, our untainted and pure mindfulness. 
 ##### *Shoshin State & Equilibrium*
 
 Shoshin is a Zen-term describing a mindset describing the beginners mind and eagerness and joy of learning anew. The more we know about a subject, the more likely we depend on our memories of it and stop accepting any further experiences.
@@ -47,13 +47,18 @@ Recognising fosters Emotional Intelligence (EQ) and raises our mindfulness. As w
 
 Players seed and foster emotions onto others queues with they need to be aware of own arising emotions and handle them wisely, not impulsively. 
 
-Recognising is done by completion of own arisen emotions, either completing it with a fitting emotile or regulating / suppressing them based on their elemental phases. If the player is handle the arisen emotion, they earn crystals for their attention and awareness. If others beat the player by acting first, the player loses a crystal. The successfully recognised emotion covering the last three emotiles is removed from our queue, the last of the three saved separately to form a collection of our *[[#Emotional Intelligence (EQ)]]*.
+Recognising is done by completion of own arisen emotions, either completing it with a fitting emotile or regulating / suppressing them based on their elemental phases. Players earn crystals in their color for their attention and awareness, but if others act first, the player loses a crystal. 
+
+At the end of the game,  the successfully recognised emotions will be counted with the regular emotions of personas to build sets of emotions. Every completed emotion set counts as eight crystals.
 ##### *Priority of Emotiles*
 
 Completion of an emotion has priority over rising emotions. Within the same queue, the completion by a player has precedence over the rising of a seed / evolving stages of another player within turn order.
 ##### *Express Completion*
 
 Every player has a capacity to reserve one tile. With a bit of planning players might be able to do a double placement of emotiles (with the event-card played in-between), resulting with express completion of an emotion.
+##### *Instant Activation*
+
+Cards with the blitz-icon on the top right corner need to be instantly activated (with its costs applied, of course) when the player acquires an emotile matching the color of the blitz. If the player has insufficient crystals they need to discard cards for 2 crystals each to pay for it. If their cards still are not enough to cover this cost, their turns are blocked for this round as the the toll of this unexpressed emotion becomes bigger.
 ##### Emotional Intelligence (EQ)
 *set collection of recognised emotions*
 
@@ -63,7 +68,7 @@ Building sets of emotions enriches our EQ. A set can contain **recognised** emot
 Every player has one or more patterns as the side-result of their relationships with different personas. Players have to keep an eye on completed emotions on their queue for a potential match of a sequence (even with other emotions in-between) with one of the personas. If such a match occurs, players lose of their colored crystals within the round, stopping them to play further. Players have to take special care to dismantle these patterns from their queue.
 ## A Typical Turn:
 
-- The gameplay is focused on the circular board and all players queue's.
+- The gameplay is focused on the circular board and the players queue's.
 - Player may match with a partner if not done already which ends their turn.
 - Pick up the emotile by following its [[#Picking Up EmoTiles|rules]] (as mentioned above), 
 - Play the event-card by paying its cost/receiving its benefit with crystals of their color. The paid amount goes to their reserve.
