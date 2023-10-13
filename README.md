@@ -23,7 +23,7 @@ EQueue is a semi-abstract & semi-coop tactical puzzle with lots of player intera
 - ##### ![[11-Endgame&Scoring&Win-Conditions|End of the Game & Winning Conditions]]
 - ##### ![[13.A-Appendix|Thematic Appendix]]:
 	- ##### ![[13.B-The-Colors-of-Emotions|Grouping & The Colors of Emotions]]
-	- ##### ![[13.C-WuXing|The Five Phases]]
+	- ##### ![[13.C-WuXing, Five Elements|The Five Phases]]
 	- ##### ![[12-FAQ|Frequently Asked Questions]]
 - ![[14-List-of-Components|List of Components]]
 - ![[15-Glossary&Iconography|Glossary and Iconography]]

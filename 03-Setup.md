@@ -10,16 +10,14 @@
 
 - Leave the remaining emotiles within the bag aside for further usage.
 
-- Separate the parents deck into piles by gender and shuffle both. Deal out two parent persona cards (as father and mother) and stash the rest away; they won't be used within this game.
+- Separate parents and partners into two decks:
+	- Separate the parents deck into piles by gender and shuffle both. Deal out two parent persona cards (as father and mother) and stash the rest away; they won't be used within this game.
+	- Shuffle the partners deck and draw one card for each player, representing their character. Then lay out 5 partners in a row, leaving the rest as a down-facing stack nearby. Draw one narrative tile for each partner card, and put it just below each visibly. 
 
-- Separate the narrative tiles, shuffle these and stack them down-facing. Draw one for each parent and put these openly in front of the player. 
-
-- Shuffle the partners deck and draw one card for each player, representing their character. Then lay out 5 partners in a row, leaving the rest as a down-facing stack nearby. Draw one narrative tile for each partner card, and put it just below each visibly. 
-
-- Fill the shoshin-track of each player with their wooden disc markers. Each player now modifies their tendencies as written on the picked narrative tiles onto the axes by moving markers from their shoshin-track onto the spaces.
+- Fill the shoshin-tracks with the wooden disc markers. Players prefill the axes with markers reflecting their parents tendencies.
 
 - Each player puts a marker onto the centre of their stress/ tranquility track.
 
 - Shuffle the event cards and deal each player 6 one-by-one.
 
-- Put the clear crystals within a container into the center of the board, accessible to all.
+- Put the clear crystals within a container to the center of the board, accessible to all.
