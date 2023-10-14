@@ -1,6 +1,7 @@
+![[banner-clean.png]]
 ## Components and The Main Board
 #### The Main Board
-*usage of disc-markers, picking emotiles*
+*usage of axis markers, picking up emotiles*
 
 ![[wheel.JPG]]
 
@@ -15,10 +16,11 @@ The octagonal board is built of eight sections divided with the four axes of opp
 	- Leave a marker onto the axis,
 	- Take the emotile.
 - Whenever an emotile is picked up it has to be applied to the end of a queue or held as reserve (if not done yet).
+
 #### Marker Placement on the Axes
 
 The axes between the sections represent various personal motivations or tendencies; *The Eight Worldly Concerns*. 
-Motivations increase with the discs we place. Following rules apply to marker placement:
+Motivations increase as markers get placed. Following rules apply to marker placement:
 - Placement is restricted to a decreasing number of players by level (e.g. 3 players on 1st level (inner), 2 players on 2nd level and 1 player on the 3rd (outer) level are allowed).
 - On any axis at any level, only one marker per player is allowed to occupy. 
 - If the maximum of a space is reached, the marker has to be placed onto the next level and only the emotiles connected to the placed level are available. 
